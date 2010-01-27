@@ -50,7 +50,7 @@ echo "Parsing to CSV..."
 # garbage English translations (not a subset of the new meanings!) due to new lemma lines in
 # the dictionary which lack a POS-marker (actually "in error")!
 
-./irishionary.pl "$html_temp" >"$csv_temp" 2>"$csv_temp.err"
+./irishionary.pl -utf8 "$html_temp" >"$csv_temp" 2>"$csv_temp.err"
 
 echo "Cleaning up..."
 

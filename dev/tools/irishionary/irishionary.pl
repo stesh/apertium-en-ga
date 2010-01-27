@@ -25,24 +25,34 @@ my $usage =	"$FindBin::Script [-2] [html-file]\n" .
 			"        -c        combine broken lines\n" . 
 			"                  [This produces more meanings, as some meanings are broken across\n" . 
 			"                   lines, but also produces a lot of garbage in the translated phrases\n" .
-			"                   due to the existence of entries without the meta-tags (mn, vb, prep, etc.)]\n\n";
+			"                   due to the existence of entries without the meta-tags (mn, vb, prep, etc.)]\n\n" .
+			"        -d        debug (more verbose output to STDERR\n" .
+			"        -utf8     force UTF-8 _output_\n";
 
 my $combine;
 my $debug;
+my $utf8;
 
 while ($_ = $ARGV[0], /^-/) {
     shift;
     last if /^--$/;
-    if (/^-h/ or /^--help/) { print $usage; exit 0; }
-    if (/^-c/)     { $combine++;  next; }
-    if (/^-d/)     { $debug++;  next; }
+    if (/^-h$/ or /^--help$/) { print $usage; exit 0; }
+    if (/^-c$/)     { $combine++;  next; }
+    if (/^-d$/)     { $debug++;  next; }
+    if (/^-utf8$/)  { $utf8++; next; }
     # ...           # other switches
 }
 
 print STDERR @ARGV if ($debug);
 print STDERR "POS_INFO: ", DicEntry::POS_INFO() if ($debug);
 
-print STDOUT "# ISO 8859 encoded...\n";
+if ($utf8) {
+    binmode(STDOUT, ":utf8");
+    print STDOUT "# UTF-8 encoded...\n";
+} else {
+    print STDOUT "# No encoding conversion. This file is encoded the same way as the input (probably ISO 8859-3 (Turkish, Esperanto, Irish (with dotted g, b, etc.))\n";
+}
+
 print STDOUT '# "irish","english","POS","gender"'."\n";
 main();
 
