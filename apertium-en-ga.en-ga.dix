@@ -763,7 +763,8 @@
     <e a="coregan"><p><l>lack<s n="n"/></l><r>easpa<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>bishop<s n="n"/></l><r>easpag<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>rise<s n="n"/></l><r>éirí<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>listen<s n="n"/></l><r>éisteacht<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hearing<s n="n"/></l><r>éisteacht<s n="n"/><s n="f"/></r></p></e>
+    <e a="coregan"><p><l>listen<s n="vblex"/></l><r>éisteacht<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>listener<s n="n"/></l><r>éisteoir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>key<s n="n"/></l><r>eochair<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>keyword<s n="n"/></l><r>eochairfhocal<s n="n"/><s n="m"/></r></p></e>
