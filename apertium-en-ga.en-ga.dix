@@ -1173,6 +1173,7 @@
     <e><p><l>last<b/>night<s n="adv"/></l><r>aréir<s n="adv"/></r></p></e>
     <e><p><l>as<b/>a<b/>rule<s n="adv"/></l><r>de<b/>ghnáth<s n="adv"/></r></p></e>
     <e><p><l>lately<s n="adv"/></l><r>le<b/>déanaí<s n="adv"/></r></p></e>
+    <!-- These can also be 'on Monday the <ord>', for which I'll have to add funky regexes. 'Cause that's how I roll, baby -->
     <e><p><l>on<b/>Mondays<s n="adv"/></l><r>ar<b/>an<b/>Luan<s n="adv"/></r></p></e>
     <e><p><l>on<b/>Tuesdays<s n="adv"/></l><r>ar<b/>an<b/>Máirt<s n="adv"/></r></p></e>
     <e><p><l>on<b/>Wednesdays<s n="adv"/></l><r>ar<b/>an<b/>gCéadaoin<s n="adv"/></r></p></e>
