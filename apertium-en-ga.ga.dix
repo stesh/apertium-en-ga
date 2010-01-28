@@ -45953,6 +45953,9 @@
     <e lm="timpeall"><i>timpeall</i><par n="go__pr"/></e>
     <e lm="trasna"><i>trasna</i><par n="go__pr"/></e>
 
+    <e lm="mar gheall ar"><i>mar<b/>gheall<b/></i><par n="/ar__pr"/></e>
+    <e lm="in aice le"><i>in<b/>aice<b/></i><par n="/le__pr"/></e>
+
     <!-- Adverbs -->
     <e lm="abhaile"><i>abhaile</i><par n="anseo__adv"/></e>
     <e lm="ábhairín"><i>ábhairín</i><par n="anseo__adv"/></e>
