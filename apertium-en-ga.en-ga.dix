@@ -403,7 +403,8 @@
     <e><p><l>gap<s n="n"/></l><r>bearna<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pass<s n="n"/></l><r>bearnas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>parcel<s n="n"/></l><r>beart<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>live<s n="n"/></l><r>beo<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>living<s n="n"/></l><r>beo<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>live<s n="adj"/></l><r>beo<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>beer<s n="n"/></l><r>beoir<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>food<s n="n"/></l><r>bia<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>restaurant<s n="n"/></l><r>bialann<s n="n"/><s n="f"/></r></p></e>
@@ -421,6 +422,7 @@
     <e><p><l>blackguard<s n="n"/></l><r>bligeard<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>cow<s n="n"/></l><r>bó<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>poor<s n="n"/></l><r>bocht<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>poor<s n="adj"/></l><r>bocht<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>poverty<s n="n"/></l><r>bochtaineacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>smell<s n="n"/></l><r>boladh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>volcano<s n="n"/></l><r>bolcán<s n="n"/><s n="m"/></r></p></e>
@@ -443,7 +445,7 @@
     <e a="coregan"><p><l>verb<s n="n"/></l><r>briathar<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>dream<s n="n"/></l><r>brionglóid<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>biscuit<s n="n"/></l><r>briosca<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>break<s n="n"/></l><r>briseadh<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>breakage<s n="n"/></l><r>briseadh<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>badger<s n="n"/></l><r>broc<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>shoe<s n="n"/></l><r>bróg<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>sorrow<s n="n"/></l><r>brón<s n="n"/><s n="m"/></r></p></e>
@@ -459,7 +461,8 @@
     <e a="coregan"><p><l>bungalow<s n="n"/></l><r>bungaló<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>constitution<s n="n"/></l><r>bunreacht<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>primary<b/>school<s n="n"/></l><r>bunscoil<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>invent<s n="n"/></l><r>bunú<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>establish<s n="vblex"/></l><r>bunú<s n="vblex"/></r></p></e>
+    <e><p><l>establishment<s n="n"/></l><r>bunú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>bus<s n="n"/></l><r>bus<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>chapter<s n="n"/></l><r>caibidil<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>cabinet<s n="n"/></l><r>caibinéad<s n="n"/><s n="m"/></r></p></e>
@@ -470,7 +473,8 @@
     <e a="coregan"><p><l>calendar<s n="n"/></l><r>caileandar<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>girl<s n="n"/></l><r>cailín<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>cauliflower<s n="n"/></l><r>cailís<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>lose<s n="n"/></l><r>caill<s n="n"/><s n="f"/></r></p></e>
+    <e a="coregan"><p><l>lose<s n="vblex"/></l><r>caill<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>loss<s n="n"/></l><r>caill<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>loss<s n="n"/></l><r>cailleadh<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>speech<s n="n"/></l><r>caint<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>speaker<s n="n"/></l><r>cainteoir<s n="n"/><s n="m"/></r></p></e>
@@ -491,7 +495,8 @@
     <e a="coregan"><p><l>kangaroo<s n="n"/></l><r>cangarú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>fifty<s n="n"/></l><r>caoga<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>memory<s n="n"/></l><r>caoineachán<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>cry<s n="n"/></l><r>caoineadh<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lament<s n="n"/></l><r>caoineadh<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>cry<s n="vblex"/></l><r>caoineadh<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>narrow<s n="n"/></l><r>caol<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>sheep<s n="n"/></l><r>caora<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>horse<s n="n"/></l><r>capall<s n="n"/><s n="m"/></r></p></e>
@@ -523,12 +528,14 @@
     <e a="coregan"><p><l>permission<s n="n"/></l><r>cead<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>hundred<s n="n"/></l><r>céad<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>centipede<s n="n"/></l><r>céadchosach<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>allow<s n="n"/></l><r>ceadú<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>allow<s n="vblex"/></l><r>ceadú<s n="vblex"/></r></p></e>
+    <e><p><l>permission<s n="n"/></l><r>ceadú<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>flake<s n="n"/></l><r>ceallóg<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>camera<s n="n"/></l><r>ceamara<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>cannister<s n="n"/></l><r>ceanastar<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>knot<s n="n"/></l><r>ceangal<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>buy<s n="n"/></l><r>ceannach<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>buy<s n="vblex"/></l><r>ceannach<s n="vblex"/></r></p></e>
+    <e><p><l>purchase<s n="n"/></l><r>ceannach<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>leader<s n="n"/></l><r>ceannaire<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>buyer<s n="n"/></l><r>ceannaitheoir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>capital<b/>city<s n="n"/></l><r>ceannchathair<s n="n"/><s n="f"/></r></p></e>
