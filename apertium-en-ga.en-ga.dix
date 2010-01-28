@@ -548,7 +548,8 @@
     <e a="coregan"><p><l>party<s n="n"/></l><r>céasadh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>four<s n="n"/></l><r>ceathair<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>quarter<s n="n"/></l><r>ceathrú<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>together<s n="n"/></l><r>céile<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>together<s n="adv"/></l><r>le<b/>chéile<s n="adv"/></r></p></e>
+    <e><p><l>spouse<s n="n"/></l><r>céile<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>dance<s n="n"/></l><r>céilí<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>step<s n="n"/></l><r>céim<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>chemistry<s n="n"/></l><r>ceimic<s n="n"/><s n="f"/></r></p></e>
@@ -575,8 +576,8 @@
     <e a="coregan"><p><l>clasp<s n="n"/></l><r>claspa<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>practice<s n="n"/></l><r>cleachtadh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>trick<s n="n"/></l><r>cleas<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>magician<s n="n"/></l><r>cleasaí<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>magician<s n="n"/></l><r>cleasaíocht<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acrobat<s n="n"/></l><r>cleasaí<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>trickery<s n="n"/></l><r>cleasaíocht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>feather<s n="n"/></l><r>cleite<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>stone<s n="n"/></l><r>cloch<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>pebble<s n="n"/></l><r>clochán<s n="n"/><s n="m"/></r></p></e>
@@ -597,14 +598,17 @@
     <e a="coregan"><p><l>mound<s n="n"/></l><r>cnocán<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>cook<s n="n"/></l><r>cóc<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>chef<s n="n"/></l><r>cócaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cookery<s n="n"/></l><r>cócaireact<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>cocoa<s n="n"/></l><r>cócó<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>code<s n="n"/></l><r>cód<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>whisper<s n="n"/></l><r>codarsnacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>sleep<s n="n"/></l><r>codladh<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>fight<s n="n"/></l><r>cogadh<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>war<s n="n"/></l><r>cogadh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>puppy<s n="n"/></l><r>coileán<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>forest<s n="n"/></l><r>coill<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>keep<s n="n"/></l><r>cóiméad<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>keep<s n="vblex"/></l><r>cóiméad<s n="vblex"/></r></p></e>
+    <e><p><l>detention<s n="n"/></l><r>cóiméad<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR" c="Ambig"><p><l>comet<s n="n"/></l><r>cóiméad<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>hide<s n="n"/></l><r>coimhéad<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>respect<s n="n"/></l><r>cóimheas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>commission<s n="n"/></l><r>coimisiún<s n="n"/><s n="m"/></r></p></e>
@@ -615,7 +619,8 @@
     <e a="coregan"><p><l>competition<s n="n"/></l><r>comórtas<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>conversation<s n="n"/></l><r>comhrá<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>cone<s n="n"/></l><r>cón<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>live<s n="n"/></l><r>cónaí<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>residence<s n="n"/></l><r>cónaí<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>live<s n="vblex"/></l><r>cónaí<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>county<s n="n"/></l><r>contae<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>copper<s n="n"/></l><r>copar<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>chorus<s n="n"/></l><r>córas<s n="n"/><s n="m"/></r></p></e>
@@ -626,7 +631,8 @@
     <e a="coregan"><p><l>coast<s n="n"/></l><r>cósta<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>price<s n="n"/></l><r>costas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>coat<s n="n"/></l><r>cóta<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>equal<s n="n"/></l><r>cothrom<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>equal<s n="adj"/></l><r>cothrom<s n="adj"/></r></p></e>
+    <e><p><l>par<s n="n"/></l><r>cothrom<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>equality<s n="n"/></l><r>cothromas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>skin<s n="n"/></l><r>craiceann<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>tree<s n="n"/></l><r>crann<s n="n"/><s n="m"/></r></p></e>
@@ -653,12 +659,13 @@
     <e a="coregan"><p><l>visitor<s n="n"/></l><r>cuairteoir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>goal<s n="n"/></l><r>cual<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>reason<s n="n"/></l><r>cuas<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>some<s n="n"/></l><r>cuid<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>part<s n="n"/></l><r>cuid<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>help<s n="n"/></l><r>cuidiú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>five<s n="n"/></l><r>cúig<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>fifth<s n="n"/></l><r>cúigiú<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>behind<s n="n"/></l><r>cúil<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>remember<s n="n"/></l><r>cuimhne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rear<s n="n"/></l><r>cúil<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rear<s n="adj"/></l><r>cúil<s n="adj"/></r></p></e>
+    <e><p><l>memory<s n="n"/></l><r>cuimhne<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>corner<s n="n"/></l><r>cúinne<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>invitation<s n="n"/></l><r>cuireadh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>visit<s n="n"/></l><r>cúirt<s n="n"/><s n="f"/></r></p></e>
@@ -681,6 +688,7 @@
     <e a="coregan"><p><l>daddy<s n="n"/></l><r>daidí<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>oak<s n="n"/></l><r>dair<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>blind<s n="n"/></l><r>dall<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>blind<s n="adj"/></l><r>dall<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>student<s n="n"/></l><r>dalta<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>damage<s n="n"/></l><r>damáiste<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>dance<s n="n"/></l><r>damhsa<s n="n"/><s n="m"/></r></p></e>
