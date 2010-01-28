@@ -1124,6 +1124,63 @@
     <e><p><l>Hungary<s n="np"/><s n="top"/></l><r>Ungáir<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Hungarian<s n="n"/></l><r>Ungárach<s n="n"/><s n="m"/></r></p></e>
 
+
+    <e><p><l>on<b/>Monday<s n="adv"/></l><r>Dé<b/>Luain<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Tuesday<s n="adv"/></l><r>Dé<b/>Mháirt<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Wednesday<s n="adv"/></l><r>Dé<b/>Céadaoin<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Thursday<s n="adv"/></l><r>Déardaoin<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Friday<s n="adv"/></l><r>Dé<b/>hAoine<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Saturday<s n="adv"/></l><r>Dé<b/>Sathairn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Sunday<s n="adv"/></l><r>Dé<b/>Domhnaigh<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Monday<s n="adv"/></l><r>an<b/>Luan<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Monday<s n="adv"/></l><r>an<b/>Luan<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Monday<s n="adv"/></l><r>an<b/>Luan<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Monday<b/>last<s n="adv"/></l><r>Dé<b/>Luain<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Monday<b/>next<s n="adv"/></l><r>Dé<b/>Luain<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Tuesday<s n="adv"/></l><r>an<b/>Máirt<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Tuesday<s n="adv"/></l><r>an<b/>Máirt<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Tuesday<s n="adv"/></l><r>an<b/>Máirt<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Tuesday<b/>last<s n="adv"/></l><r>Dé<b/>Máirt<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Tuesday<b/>next<s n="adv"/></l><r>Dé<b/>Máirt<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Wednesday<s n="adv"/></l><r>an<b/>Céadaoin<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Wednesday<s n="adv"/></l><r>an<b/>Céadaoin<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Wednesday<s n="adv"/></l><r>an<b/>Céadaoin<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Wednesday<b/>last<s n="adv"/></l><r>Dé<b/>Céadaoin<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Wednesday<b/>next<s n="adv"/></l><r>Dé<b/>Céadaoin<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Thursday<s n="adv"/></l><r>an<b/>Déardaoin<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Thursday<s n="adv"/></l><r>an<b/>Déardaoin<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Thursday<s n="adv"/></l><r>an<b/>Déardaoin<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Thursday<b/>last<s n="adv"/></l><r>Déardaoin<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Thursday<b/>next<s n="adv"/></l><r>Déardaoin<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Friday<s n="adv"/></l><r>an<b/>Aoine<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Friday<s n="adv"/></l><r>an<b/>Aoine<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Friday<s n="adv"/></l><r>an<b/>Aoine<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Friday<b/>last<s n="adv"/></l><r>Dé<b/>hAoine<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Friday<b/>next<s n="adv"/></l><r>Dé<b/>hAoine<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Saturday<s n="adv"/></l><r>an<b/>Satharn<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Saturday<s n="adv"/></l><r>an<b/>Satharn<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Saturday<s n="adv"/></l><r>an<b/>Satharn<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Saturday<b/>last<s n="adv"/></l><r>Dé<b/>Sathairn<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Saturday<b/>next<s n="adv"/></l><r>Dé<b/>Sathairn<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>Sunday<s n="adv"/></l><r>an<b/>Domhnach<b/>seo<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>Sunday<s n="adv"/></l><r>an<b/>Domhnach<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>Sunday<s n="adv"/></l><r>an<b/>Domhnach<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Sunday<b/>last<s n="adv"/></l><r>Dé<b/>Domhnaigh<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Sunday<b/>next<s n="adv"/></l><r>Dé<b/>Domhnaigh<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>week<s n="adv"/></l><r>an<b/>tseachtain<b/>seo<b/>caite<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>week<s n="adv"/></l><r>an<b/>tseachtain<b/>seo<b/>chugainn<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>year<s n="adv"/></l><r>anuraidh<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>night<s n="adv"/></l><r>aréir<s n="adv"/></r></p></e>
+    <e><p><l>as<b/>a<b/>rule<s n="adv"/></l><r>de<b/>ghnáth<s n="adv"/></r></p></e>
+    <e><p><l>lately<s n="adv"/></l><r>le<b/>déanaí<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Mondays<s n="adv"/></l><r>ar<b/>an<b/>Luan<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Tuesdays<s n="adv"/></l><r>ar<b/>an<b/>Máirt<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Wednesdays<s n="adv"/></l><r>ar<b/>an<b/>gCéadaoin<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Thursdays<s n="adv"/></l><r>ar<b/>an<b/>Déardaoin<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Fridays<s n="adv"/></l><r>ar<b/>an<b/>Aoine<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Saturdays<s n="adv"/></l><r>ar<b/>an<b/>Satharn<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>Sundays<s n="adv"/></l><r>ar<b/>an<b/>Domhnach<s n="adv"/></r></p></e>
+
     <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>  
     <e><re>([0-9]+[.,][0-9]+)?11</re><p><l>th<s n="num"/><s n="ord"/></l><r>ú<s n="num"/><s n="ord"/></r></p></e>
