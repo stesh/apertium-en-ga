@@ -45955,6 +45955,8 @@
 
     <e lm="mar gheall ar"><i>mar<b/>gheall<b/></i><par n="/ar__pr"/></e>
     <e lm="in aice le"><i>in<b/>aice<b/></i><par n="/le__pr"/></e>
+    <e lm="isteach i"><i>isteach<b/></i><par n="/i__pr"/></e>
+    <e lm="ag féachaint do"><i>ag<b/>féachaint<b/></i><par n="/do__pr"/></e>
 
     <!-- Adverbs -->
     <e lm="abhaile"><i>abhaile</i><par n="anseo__adv"/></e>
@@ -46847,6 +46849,7 @@
     <e lm="dealbhóir"><par n="initial-d"/><i>ealbhó</i><par n="almó/ir__n_m"/></e>
     <e lm="comhairle"><par n="initial-c"/><i>omhairl</i><par n="air/e__n_f"/></e>
     <e lm="aga"><par n="initial-a"/><i>ga</i><par n="ápa__n_m"/></e>
+    <e lm="airteagal"><par n="initial-a"/><i>irteaga</i><par n="bá/l__n_m"/></e>
     <e lm="fothoghchán"><par n="initial-f"/><i>othoghchá</i><par n="to/n__n_m"/></e>
     <e lm="forógra"><par n="initial-f"/><i>orógra</i><par n="ápa__n_m"/></e>
     <e lm="díoltas"><par n="initial-d"/><i>íolta</i><par n="ú/s__n_m"/></e>
@@ -49823,6 +49826,8 @@
     <e lm="nócha"><i>nócha</i><par n="ochtó__n_m"/></e>
     <e lm="bitheolaí"><par n="initial-b"/><i>itheola</i><par n="n/í__n_m"/></e>
     <e lm="cúirt"><par n="initial-c"/><i>úirt</i><par n="rím__n_f"/></e>
+    <e lm="cúirt chéadchéime" r="LR" c="FIXME"><par n="initial-c"/><i>úirt</i><par n="rím__n_f"/><p><l><b/>chéadchéime</l><r><g><b/>céadchéime</g></r></p></e>
+    <e lm="cúirt céadchéime"><par n="initial-c"/><i>úirt</i><par n="rím__n_f"/><p><l><b/>céadchéime</l><r><g><b/>céadchéime</g></r></p></e>
     <e lm="aonrú"><par n="initial-a"/><i>onr</i><par n="ór/ú__n_m"/></e>
     <e lm="mana"><par n="initial-m"/><i>ana</i><par n="ápa__n_m"/></e>
     <e lm="dearadh"><par n="initial-d"/><i>eara</i><par n="Coga/dh__n_m"/></e>

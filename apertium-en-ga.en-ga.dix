@@ -78,11 +78,15 @@
     <e><p><l>across<s n="pr"/></l><r>thar<s n="pr"/></r></p></e>
     <e><p><l>around<s n="pr"/></l><r>timpeall<s n="pr"/></r></p></e>
     <e><p><l>with<s n="pr"/></l><r>le<s n="pr"/></r></p></e>
+    <e><p><l>between<s n="pr"/></l><r>idir<s n="pr"/></r></p></e>
+    <e><p><l>under<s n="pr"/></l><r>faoi<s n="pr"/></r></p></e>
     <e><p><l>at<s n="pr"/></l><r>ag<s n="pr"/></r></p></e>
     <e><p><l>on<s n="pr"/></l><r>ar<s n="pr"/></r></p></e>
     <e><p><l>tar<b/>éis<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>because<b/>of<s n="pr"/></l><r>mar<b/>gheall<b/>ar<s n="pr"/></r></p></e>
     <e><p><l>beside<s n="pr"/></l><r>in<b/>aice<b/>le<s n="pr"/></r></p></e>
+    <e><p><l>into<s n="pr"/></l><r>isteach<b/>i<s n="pr"/></r></p></e>
+    <e><p><l>having<b/>regard<b/>to<s n="pr"/></l><r>ag<b/>féachaint<b/>do<s n="pr"/></r></p></e>
 
     <e><p><l>but<s n="cnjsub"/></l><r>ach<s n="cnjsub"/></r></p></e>
     <e><p><l>and<s n="cnjcoo"/></l><r>agus<s n="cnjcoo"/></r></p></e>
@@ -166,6 +170,15 @@
     <e><p><l>ninety<s n="num"/></l><r>nócha<s n="num"/></r></p></e>
     <e><p><l>hundred<s n="num"/></l><r>céad<s n="num"/></r></p></e>
     <e><p><l>thousand<s n="num"/></l><r>míle<s n="num"/></r></p></e>
+
+    <e><p><l>protocol<s n="n"/></l><r>prótacal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>article<s n="n"/></l><r>airteagal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>treaty<s n="n"/></l><r>conradh<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>opinion<s n="n"/></l><r>tuairim<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>panel<s n="n"/></l><r>painéal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>effect<s n="n"/></l><r>éifeacht<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>court<g><b/>of<b/>first<b/>instance</g><s n="n"/></l><r>cúirt<g><b/>céadchéime</g><s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>first<b/>instance<s n="n"/></l><r>céadchéim<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>friend<s n="n"/></l><r>cara<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cat<s n="n"/></l><r>cat<s n="n"/><s n="m"/></r></p></e>
@@ -677,7 +690,7 @@
     <e><p><l>memory<s n="n"/></l><r>cuimhne<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>corner<s n="n"/></l><r>cúinne<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>invitation<s n="n"/></l><r>cuireadh<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>visit<s n="n"/></l><r>cúirt<s n="n"/><s n="f"/></r></p></e>
+    <e a="coregan"><p><l>court<s n="n"/></l><r>cúirt<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>curtain<s n="n"/></l><r>cuirtín<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>reason<s n="n"/></l><r>cúis<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>refrigerator<s n="n"/></l><r>cuisneoir<s n="n"/><s n="m"/></r></p></e>
