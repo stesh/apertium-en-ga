@@ -1277,7 +1277,6 @@
     <e><p><l>unrealistic<s n="adj"/></l><r>neamhréadúil<s n="adj"/></r></p></e>
     <e><p><l>indefinite<s n="adj"/></l><r>neamhshonrach<s n="adj"/></r></p></e>
     <e><p><l>less<s n="adj"/></l><r>níos<b/>lú<s n="adj"/></r></p></e>
-    <e><p><l>bigger<s n="adj"/></l><r>níos<b/>mó<b/>ná<s n="adj"/></r></p></e>
     <e><p><l>new<s n="adj"/><s n="sint"/></l><r>nua<s n="adj"/></r></p></e>
     <e><p><l>modern<s n="adj"/></l><r>nua-aimseartha<s n="adj"/></r></p></e>
     <e><p><l>innovative<s n="adj"/></l><r>nuálach<s n="adj"/></r></p></e>
@@ -1288,7 +1287,7 @@
     <e><p><l>huge<s n="adj"/></l><r>ollmhór<s n="adj"/></r></p></e>
     <e><p><l>massive<s n="adj"/></l><r>ollmhór<s n="adj"/></r></p></e>
     <e><p><l>drunk<s n="adj"/></l><r>ólta<s n="adj"/></r></p></e>
-    <e><p><l>honourable<s n="adj"/></l><r>Onórach<s n="adj"/></r></p></e>
+    <e><p><l>honourable<s n="adj"/></l><r>onórach<s n="adj"/></r></p></e>
     <e><p><l>orange<s n="adj"/></l><r>oráiste<s n="adj"/></r></p></e>
     <e><p><l>golden<s n="adj"/></l><r>órga<s n="adj"/></r></p></e>
     <e><p><l>open<s n="adj"/></l><r>oscailte<s n="adj"/></r></p></e>
@@ -1382,7 +1381,6 @@
     <e><p><l>horrible<s n="adj"/></l><r>uafásach<s n="adj"/></r></p></e>
     <e><p><l>terrible<s n="adj"/></l><r>uafásach<s n="adj"/></r></p></e>
     <e><p><l>creepy<s n="adj"/><s n="sint"/></l><r>uaigneach<s n="adj"/></r></p></e>
-    <e><p><l>lonely<s n="adj"/><s n="sint"/></l><r>uaigneach<s n="adj"/></r></p></e>
     <e><p><l>spooky<s n="adj"/><s n="sint"/></l><r>uaigneach<s n="adj"/></r></p></e>
     <e><p><l>green<s n="adj"/><s n="sint"/></l><r>uaine<s n="adj"/></r></p></e>
     <e><p><l>almighty<s n="adj"/></l><r>uilechumhachtach<s n="adj"/></r></p></e>
@@ -1613,6 +1611,10 @@
     <e><p><l>on<b/>Fridays<s n="adv"/></l><r>ar<b/>an<b/>Aoine<s n="adv"/></r></p></e>
     <e><p><l>on<b/>Saturdays<s n="adv"/></l><r>ar<b/>an<b/>Satharn<s n="adv"/></r></p></e>
     <e><p><l>on<b/>Sundays<s n="adv"/></l><r>ar<b/>an<b/>Domhnach<s n="adv"/></r></p></e>
+    <e><p><l>from<b/>now<b/>on<s n="adv"/></l><r>as<b/>seo<b/>amach<s n="adv"/></r></p></e>
+    <e><p><l>from<b/>then<b/>on<s n="adv"/></l><r>as<b/>sin<b/>amach<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>from<b/>this<b/>time<b/>forward<s n="adv"/></l><r>as<b/>seo<b/>amach<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>from<b/>that<b/>time<b/>forward<s n="adv"/></l><r>as<b/>sin<b/>amach<s n="adv"/></r></p></e>
 
     <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>  
