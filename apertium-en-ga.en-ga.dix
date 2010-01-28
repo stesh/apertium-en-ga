@@ -3,8 +3,10 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"/>
+    <sdef n="sint"/>
     <sdef n="np"/>
     <sdef n="det"/>
+    <sdef n="prn"/>
     <sdef n="top"/>
     <sdef n="ant"/>
     <sdef n="vblex"/>
@@ -33,6 +35,10 @@
   </sdefs>
   
   <section id="main" type="standard">
+    <!-- pronouns-->
+    <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+
+
     <!-- adverbs -->
     <e><p><l>long<b/>ago<s n="adv"/></l><r>fada<b/>ó<b/>shin<s n="adv"/></r></p></e>
     <e><p><l>ago<s n="adv"/></l><r>ó<b/>shin<s n="adv"/></r></p></e>
@@ -951,17 +957,427 @@
     <e><p><l>Spanish<s n="adj"/></l><r>Spáinneach<s n="adj"/></r></p></e>
     <e><p><l>Hungarian<s n="adj"/></l><r>Ungárach<s n="adj"/></r></p></e>
     <e><p><l>able<s n="adj"/></l><r>ábalta<s n="adj"/></r></p></e>
-    <e><p><l>high<s n="adj"/></l><r>ard<s n="adj"/></r></p></e>
-    <e><p><l>lame<s n="adj"/></l><r>bacach<s n="adj"/></r></p></e>
-    <e><p><l>white<s n="adj"/></l><r>bán<s n="adj"/></r></p></e>
-    <e><p><l>soft<s n="adj"/></l><r>bog<s n="adj"/></r></p></e>
+    <e><p><l>high<s n="adj"/><s n="sint"/></l><r>ard<s n="adj"/></r></p></e>
+    <e><p><l>lame<s n="adj"/><s n="sint"/></l><r>bacach<s n="adj"/></r></p></e>
+    <e><p><l>white<s n="adj"/><s n="sint"/></l><r>bán<s n="adj"/></r></p></e>
+    <e><p><l>soft<s n="adj"/><s n="sint"/></l><r>bog<s n="adj"/></r></p></e>
     <e><p><l>broken<s n="adj"/></l><r>briste<s n="adj"/></r></p></e>
-    <e><p><l>quiet<s n="adj"/></l><r>ciúin<s n="adj"/></r></p></e>
-    <e><p><l>dark<s n="adj"/></l><r>dorcha<s n="adj"/></r></p></e>
+    <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>ciúin<s n="adj"/></r></p></e>
+    <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>dorcha<s n="adj"/></r></p></e>
     <e><p><l>closed<s n="adj"/></l><r>dúnta<s n="adj"/></r></p></e>
-    <e><p><l>wet<s n="adj"/></l><r>fliuch<s n="adj"/></r></p></e>
-    <e><p><l>empty<s n="adj"/></l><r>folamh<s n="adj"/></r></p></e>
-    <e><p><l>cold<s n="adj"/></l><r>fuar<s n="adj"/></r></p></e>
+    <e><p><l>wet<s n="adj"/><s n="sint"/></l><r>fliuch<s n="adj"/></r></p></e>
+    <e><p><l>empty<s n="adj"/><s n="sint"/></l><r>folamh<s n="adj"/></r></p></e>
+    <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>fuar<s n="adj"/></r></p></e>
+
+
+    <e><p><l>confrontational<s n="adj"/></l><r>achrannach<s n="adj"/></r></p></e>
+    <e><p><l>quarrelsome<s n="adj"/></l><r>achrannach<s n="adj"/></r></p></e>
+    <e><p><l>fortunate<s n="adj"/></l><r>ádhúil<s n="adj"/></r></p></e>
+    <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>ádhúil<s n="adj"/></r></p></e>
+    <e><p><l>gay<s n="adj"/><s n="sint"/></l><r>aerach<s n="adj"/></r></p></e>
+    <e><p><l>Ethiopian<s n="adj"/></l><r>Aetópach<s n="adj"/></r></p></e>
+    <e><p><l>peculiar<s n="adj"/></l><r>aisteach<s n="adj"/></r></p></e>
+    <e><p><l>comic<s n="adj"/></l><r>ait<s n="adj"/></r></p></e>
+    <e><p><l>eccentric<s n="adj"/></l><r>ait<s n="adj"/></r></p></e>
+    <e><p><l>odd<s n="adj"/><s n="sint"/></l><r>ait<s n="adj"/></r></p></e>
+    <e><p><l>strange<s n="adj"/><s n="sint"/></l><r>ait<s n="adj"/></r></p></e>
+    <e><p><l>local<s n="adj"/></l><r>áitiúil<s n="adj"/></r></p></e>
+    <e><p><l>beautiful<s n="adj"/></l><r>álainn<s n="adj"/></r></p></e>
+    <e><p><l>sheer<s n="adj"/></l><r>amach<s n="adj"/></r></p></e>
+    <e><p><l>foolish<s n="adj"/></l><r>amaideach<s n="adj"/></r></p></e>
+    <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>ámharach<s n="adj"/></r></p></e>
+    <e><p><l>debatable<s n="adj"/></l><r>amhrasach<s n="adj"/></r></p></e>
+    <e><p><l>glorious<s n="adj"/></l><r>aoibhinn<s n="adj"/></r></p></e>
+    <e><p><l>very<b/>nice<s n="adj"/></l><r>aoibhinn<s n="adj"/></r></p></e>
+    <e><p><l>single<s n="adj"/></l><r>aonarach<s n="adj"/></r></p></e>
+    <e><p><l>high<s n="adj"/><s n="sint"/></l><r>ard<s n="adj"/></r></p></e>
+    <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>ard<s n="adj"/></r></p></e>
+    <e><p><l>revised<s n="adj"/></l><r>athbhreithnithe<s n="adj"/></r></p></e>
+    <e><p><l>changed<s n="adj"/></l><r>athraithe<s n="adj"/></r></p></e>
+    <e><p><l>transformed<s n="adj"/></l><r>athraithe<s n="adj"/></r></p></e>
+    <e><p><l>female<s n="adj"/></l><r>baineann<s n="adj"/></r></p></e>
+    <e><p><l>white<s n="adj"/><s n="sint"/></l><r>bán<s n="adj"/></r></p></e>
+    <e><p><l>pink<s n="adj"/><s n="sint"/></l><r>bándearg<s n="adj"/></r></p></e>
+    <e><p><l>dangerous<s n="adj"/></l><r>baolach<s n="adj"/></r></p></e>
+    <e><p><l>little<s n="adj"/><s n="sint"/></l><r>beag<s n="adj"/></r></p></e>
+    <e><p><l>sacred<s n="adj"/></l><r>beannaithe<s n="adj"/></r></p></e>
+    <e><p><l>live<s n="adj"/></l><r>beo<s n="adj"/></r></p></e>
+    <e><p><l>your<s n="adj"/></l><r>bhur<s n="adj"/></r></p></e>
+    <e><p><l>minute<s n="adj"/></l><r>bídeach<s n="adj"/></r></p></e>
+    <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>bídeach<s n="adj"/></r></p></e>
+    <e><p><l>melodious<s n="adj"/></l><r>binn<s n="adj"/></r></p></e>
+    <e><p><l>sweet<s n="adj"/><s n="sint"/></l><r>binn<s n="adj"/></r></p></e>
+    <e><p><l>savoury<s n="adj"/></l><r>blasta<s n="adj"/></r></p></e>
+    <e><p><l>tasty<s n="adj"/><s n="sint"/></l><r>blasta<s n="adj"/></r></p></e>
+    <e><p><l>soft<s n="adj"/><s n="sint"/></l><r>bog<s n="adj"/></r></p></e>
+    <e><p><l>broken<s n="adj"/></l><r>briste<s n="adj"/></r></p></e>
+    <e><p><l>proud<s n="adj"/><s n="sint"/></l><r>bródúil<s n="adj"/></r></p></e>
+    <e><p><l>constant<s n="adj"/></l><r>buan<s n="adj"/></r></p></e>
+    <e><p><l>continual<s n="adj"/></l><r>buan<s n="adj"/></r></p></e>
+    <e><p><l>fixed<s n="adj"/></l><r>buan<s n="adj"/></r></p></e>
+    <e><p><l>permanent<s n="adj"/></l><r>buan<s n="adj"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>buí<s n="adj"/></r></p></e>
+    <e><p><l>appreciative<s n="adj"/></l><r>buíoch<s n="adj"/></r></p></e>
+    <e><p><l>grateful<s n="adj"/></l><r>buíoch<s n="adj"/></r></p></e>
+    <e><p><l>lost<s n="adj"/></l><r>caillte<s n="adj"/></r></p></e>
+    <e><p><l>chatty<s n="adj"/><s n="sint"/></l><r>cainteach<s n="adj"/></r></p></e>
+    <e><p><l>talkative<s n="adj"/></l><r>cainteach<s n="adj"/></r></p></e>
+    <e><p><l>friendly<s n="adj"/><s n="sint"/></l><r>cáirdiúil<s n="adj"/></r></p></e>
+    <e><p><l>bent<s n="adj"/></l><r>cam<s n="adj"/></r></p></e>
+    <e><p><l>crooked<s n="adj"/></l><r>cam<s n="adj"/></r></p></e>
+    <e><p><l>dishonest<s n="adj"/></l><r>cam<s n="adj"/></r></p></e>
+    <e><p><l>gay<s n="adj"/><s n="sint"/></l><r>cam<s n="adj"/></r></p></e>
+    <e><p><l>wry<s n="adj"/><s n="sint"/></l><r>cam<s n="adj"/></r></p></e>
+    <e><p><l>complicated<s n="adj"/></l><r>casta<s n="adj"/></r></p></e>
+    <e><p><l>elaborate<s n="adj"/></l><r>casta<s n="adj"/></r></p></e>
+    <e><p><l>knotty<s n="adj"/><s n="sint"/></l><r>casta<s n="adj"/></r></p></e>
+    <e><p><l>curly-haired<s n="adj"/></l><r>catach<s n="adj"/></r></p></e>
+    <e><p><l>first<s n="adj"/></l><r>céad<s n="adj"/></r></p></e>
+    <e><p><l>fond<s n="adj"/><s n="sint"/></l><r>ceanúil<s n="adj"/></r></p></e>
+    <e><p><l>wrong<s n="adj"/></l><r>cearr<s n="adj"/></r></p></e>
+    <e><p><l>correct<s n="adj"/></l><r>ceart<s n="adj"/></r></p></e>
+    <e><p><l>right<s n="adj"/></l><r>ceart<s n="adj"/></r></p></e>
+    <e><p><l>Celtic<s n="adj"/></l><r>Ceilteach<s n="adj"/></r></p></e>
+    <e><p><l>four<s n="adj"/></l><r>ceithre<s n="adj"/></r></p></e>
+    <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>ciúin<s n="adj"/></r></p></e>
+    <e><p><l>silent<s n="adj"/></l><r>ciúin<s n="adj"/></r></p></e>
+    <e><p><l>left<s n="adj"/></l><r>clé<s n="adj"/></r></p></e>
+    <e><p><l>cute<s n="adj"/><s n="sint"/></l><r>cleasach<s n="adj"/></r></p></e>
+    <e><p><l>intelligent<s n="adj"/></l><r>cliste<s n="adj"/></r></p></e>
+    <e><p><l>smart<s n="adj"/><s n="sint"/></l><r>cliste<s n="adj"/></r></p></e>
+    <e><p><l>famed<s n="adj"/></l><r>clúiteach<s n="adj"/></r></p></e>
+    <e><p><l>renowned<s n="adj"/></l><r>clúiteach<s n="adj"/></r></p></e>
+    <e><p><l>sleepy<s n="adj"/><s n="sint"/></l><r>codlatach<s n="adj"/></r></p></e>
+    <e><p><l>conservative<s n="adj"/></l><r>coimeádach<s n="adj"/></r></p></e>
+    <e><p><l>isosceles<s n="adj"/></l><r>comhchosach<s n="adj"/></r></p></e>
+    <e><p><l>purple<s n="adj"/></l><r>corcra<s n="adj"/></r></p></e>
+    <e><p><l>erratic<s n="adj"/></l><r>corrach<s n="adj"/></r></p></e>
+    <e><p><l>shifty<s n="adj"/><s n="sint"/></l><r>corrach<s n="adj"/></r></p></e>
+    <e><p><l>uneven<s n="adj"/></l><r>corrach<s n="adj"/></r></p></e>
+    <e><p><l>unreliable<s n="adj"/></l><r>corrach<s n="adj"/></r></p></e>
+    <e><p><l>more<b/>than<s n="adj"/></l><r>corradh<b/>le<s n="adj"/></r></p></e>
+    <e><p><l>guarded<s n="adj"/></l><r>cosanta<s n="adj"/></r></p></e>
+    <e><p><l>protected<s n="adj"/></l><r>cosanta<s n="adj"/></r></p></e>
+    <e><p><l>equal<s n="adj"/></l><r>cothrom<s n="adj"/></r></p></e>
+    <e><p><l>even<s n="adj"/></l><r>cothrom<s n="adj"/></r></p></e>
+    <e><p><l>crazy<s n="adj"/><s n="sint"/></l><r>craiceáilte<s n="adj"/></r></p></e>
+    <e><p><l>loony<s n="adj"/><s n="sint"/></l><r>craiceáilte<s n="adj"/></r></p></e>
+    <e><p><l>Christian<s n="adj"/></l><r>Críostaí<s n="adj"/></r></p></e>
+    <e><p><l>brave<s n="adj"/><s n="sint"/></l><r>cróga<s n="adj"/></r></p></e>
+    <e><p><l>accurate<s n="adj"/></l><r>cruinn<s n="adj"/></r></p></e>
+    <e><p><l>exact<s n="adj"/></l><r>cruinn<s n="adj"/></r></p></e>
+    <e><p><l>precise<s n="adj"/></l><r>cruinn<s n="adj"/></r></p></e>
+    <e><p><l>round<s n="adj"/><s n="sint"/></l><r>cruinn<s n="adj"/></r></p></e>
+    <e><p><l>reasonably<s n="adj"/></l><r>cuibheasach<s n="adj"/></r></p></e>
+    <e><p><l>so-so<s n="adj"/></l><r>cuibheasach<s n="adj"/></r></p></e>
+    <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>cúlráideach<s n="adj"/></r></p></e>
+    <e><p><l>secluded<s n="adj"/></l><r>cúlráideach<s n="adj"/></r></p></e>
+    <e><p><l>secret<s n="adj"/></l><r>cúlráideach<s n="adj"/></r></p></e>
+    <e><p><l>shy<s n="adj"/><s n="sint"/></l><r>cúthail<s n="adj"/></r></p></e>
+    <e><p><l>serious<s n="adj"/></l><r>dáiríre<s n="adj"/></r></p></e>
+    <e><p><l>confounded<s n="adj"/></l><r>damanta<s n="adj"/></r></p></e>
+    <e><p><l>damned<s n="adj"/></l><r>damanta<s n="adj"/></r></p></e>
+    <e><p><l>audacious<s n="adj"/></l><r>dána<s n="adj"/></r></p></e>
+    <e><p><l>bold<s n="adj"/><s n="sint"/></l><r>dána<s n="adj"/></r></p></e>
+    <e><p><l>good-looking<s n="adj"/></l><r>dathúil<s n="adj"/></r></p></e>
+    <e><p><l>handsome<s n="adj"/></l><r>dathúil<s n="adj"/></r></p></e>
+    <e><p><l>pretty<s n="adj"/><s n="sint"/></l><r>dathúil<s n="adj"/></r></p></e>
+    <e><p><l>complete<s n="adj"/></l><r>déanta<s n="adj"/></r></p></e>
+    <e><p><l>positive<s n="adj"/></l><r>dearfach<s n="adj"/></r></p></e>
+    <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>deas<s n="adj"/></r></p></e>
+    <e><p><l>right<s n="adj"/></l><r>deas<s n="adj"/></r></p></e>
+    <e><p><l>disgusting<s n="adj"/></l><r>déistineach<s n="adj"/></r></p></e>
+    <e><p><l>faithful<s n="adj"/></l><r>dílis<s n="adj"/></r></p></e>
+    <e><p><l>genuine<s n="adj"/></l><r>dílis<s n="adj"/></r></p></e>
+    <e><p><l>loyal<s n="adj"/></l><r>dílis<s n="adj"/></r></p></e>
+    <e><p><l>unbelievable<s n="adj"/></l><r>dochreidthe<s n="adj"/></r></p></e>
+    <e><p><l>difficult<s n="adj"/></l><r>doiligh<s n="adj"/></r></p></e>
+    <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>doiligh<s n="adj"/></r></p></e>
+    <e><p><l>tough<s n="adj"/><s n="sint"/></l><r>doiligh<s n="adj"/></r></p></e>
+    <e><p><l>burned<s n="adj"/></l><r>dóite<s n="adj"/></r></p></e>
+    <e><p><l>dramatic<s n="adj"/></l><r>drámata<s n="adj"/></r></p></e>
+    <e><p><l>closed<s n="adj"/></l><r>druidte<s n="adj"/></r></p></e>
+    <e><p><l>shut<s n="adj"/></l><r>druidte<s n="adj"/></r></p></e>
+    <e><p><l>black<s n="adj"/><s n="sint"/></l><r>dubh<s n="adj"/></r></p></e>
+    <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>dubh<s n="adj"/></r></p></e>
+    <e><p><l>closed<s n="adj"/></l><r>dúnta<s n="adj"/></r></p></e>
+    <e><p><l>envious<s n="adj"/></l><r>éadmhar<s n="adj"/></r></p></e>
+    <e><p><l>jealous<s n="adj"/></l><r>éadmhar<s n="adj"/></r></p></e>
+    <e><p><l>delicate<s n="adj"/></l><r>éadrom<s n="adj"/></r></p></e>
+    <e><p><l>unfair<s n="adj"/></l><r>éagórach<s n="adj"/></r></p></e>
+    <e><p><l>unjust<s n="adj"/></l><r>éagórach<s n="adj"/></r></p></e>
+    <e><p><l>wrong<s n="adj"/></l><r>éagórach<s n="adj"/></r></p></e>
+    <e><p><l>easy<s n="adj"/><s n="sint"/></l><r>éasca<s n="adj"/></r></p></e>
+    <e><p><l>indecisive<s n="adj"/></l><r>éiginnte<s n="adj"/></r></p></e>
+    <e><p><l>indefinite<s n="adj"/></l><r>éiginnte<s n="adj"/></r></p></e>
+    <e><p><l>indistinct<s n="adj"/></l><r>éiginnte<s n="adj"/></r></p></e>
+    <e><p><l>infinite<s n="adj"/></l><r>éigríochta<s n="adj"/></r></p></e>
+    <e><p><l>other<s n="adj"/></l><r>eile<s n="adj"/></r></p></e>
+    <e><p><l>Irish<s n="adj"/></l><r>Éireannach<s n="adj"/></r></p></e>
+    <e><p><l>lingering<s n="adj"/></l><r>fadálach<s n="adj"/></r></p></e>
+    <e><p><l>slow<s n="adj"/><s n="sint"/></l><r>fadálach<s n="adj"/></r></p></e>
+    <e><p><l>tedious<s n="adj"/></l><r>fadálach<s n="adj"/></r></p></e>
+    <e><p><l>chic<s n="adj"/></l><r>faiseanta<s n="adj"/></r></p></e>
+    <e><p><l>popular<s n="adj"/></l><r>faiseanta<s n="adj"/></r></p></e>
+    <e><p><l>stylish<s n="adj"/></l><r>faiseanta<s n="adj"/></r></p></e>
+    <e><p><l>occasional<s n="adj"/></l><r>fánach<s n="adj"/></r></p></e>
+    <e><p><l>trivial<s n="adj"/></l><r>fánach<s n="adj"/></r></p></e>
+    <e><p><l>wandering<s n="adj"/></l><r>fánach<s n="adj"/></r></p></e>
+    <e><p><l>angry<s n="adj"/><s n="sint"/></l><r>feargach<s n="adj"/></r></p></e>
+    <e><p><l>blond<s n="adj"/></l><r>fionn<s n="adj"/></r></p></e>
+    <e><p><l>sandy<s n="adj"/><s n="sint"/></l><r>fionnrua<s n="adj"/></r></p></e>
+    <e><p><l>cool<s n="adj"/><s n="sint"/></l><r>fionnuar<s n="adj"/></r></p></e>
+    <e><p><l>true<s n="adj"/></l><r>fíor<s n="adj"/></r></p></e>
+    <e><p><l>curious<s n="adj"/></l><r>fiosrach<s n="adj"/></r></p></e>
+    <e><p><l>inquisitive<s n="adj"/></l><r>fiosrach<s n="adj"/></r></p></e>
+    <e><p><l>generous<s n="adj"/></l><r>fiúntach<s n="adj"/></r></p></e>
+    <e><p><l>respectable<s n="adj"/></l><r>fiúntach<s n="adj"/></r></p></e>
+    <e><p><l>worthwhile<s n="adj"/></l><r>fiúntach<s n="adj"/></r></p></e>
+    <e><p><l>generous<s n="adj"/></l><r>flaithiúil<s n="adj"/></r></p></e>
+    <e><p><l>patient<s n="adj"/></l><r>foighneach<s n="adj"/></r></p></e>
+    <e><p><l>perfect<s n="adj"/></l><r>foirfe<s n="adj"/></r></p></e>
+    <e><p><l>progressive<s n="adj"/></l><r>forásach<s n="adj"/></r></p></e>
+    <e><p><l>French<s n="adj"/></l><r>Francach<s n="adj"/></r></p></e>
+    <e><p><l>fried<s n="adj"/></l><r>friochta<s n="adj"/></r></p></e>
+    <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>fuar<s n="adj"/></r></p></e>
+    <e><p><l>each<s n="adj"/></l><r>gach<s n="adj"/></r></p></e>
+    <e><p><l>every<s n="adj"/></l><r>gach<s n="adj"/></r></p></e>
+    <e><p><l>Gaelic<s n="adj"/></l><r>gaelach<s n="adj"/></r></p></e>
+    <e><p><l>Irish<s n="adj"/></l><r>gaelach<s n="adj"/></r></p></e>
+    <e><p><l>short<s n="adj"/><s n="sint"/></l><r>gairid<s n="adj"/></r></p></e>
+    <e><p><l>useless<s n="adj"/></l><r>gan<b/>mhaith<s n="adj"/></r></p></e>
+    <e><p><l>windy<s n="adj"/><s n="sint"/></l><r>gaofar<s n="adj"/></r></p></e>
+    <e><p><l>clever<s n="adj"/></l><r>gasta<s n="adj"/></r></p></e>
+    <e><p><l>fast<s n="adj"/><s n="sint"/></l><r>gasta<s n="adj"/></r></p></e>
+    <e><p><l>quick<s n="adj"/><s n="sint"/></l><r>gasta<s n="adj"/></r></p></e>
+    <e><p><l>smart<s n="adj"/><s n="sint"/></l><r>gasta<s n="adj"/></r></p></e>
+    <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>geal<s n="adj"/></r></p></e>
+    <e><p><l>light<s n="adj"/><s n="sint"/></l><r>geal<s n="adj"/></r></p></e>
+    <e><p><l>engaged<s n="adj"/></l><r>geallta<s n="adj"/></r></p></e>
+    <e><p><l>abrupt<s n="adj"/></l><r>giorraisc<s n="adj"/></r></p></e>
+    <e><p><l>sudden<s n="adj"/></l><r>giorraisc<s n="adj"/></r></p></e>
+    <e><p><l>unforeseen<s n="adj"/></l><r>giorraisc<s n="adj"/></r></p></e>
+    <e><p><l>green<s n="adj"/><s n="sint"/></l><r>glas<s n="adj"/></r></p></e>
+    <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>glé<s n="adj"/></r></p></e>
+    <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>glé<s n="adj"/></r></p></e>
+    <e><p><l>dressed<s n="adj"/></l><r>gléasta<s n="adj"/></r></p></e>
+    <e><p><l>gorgeous<s n="adj"/></l><r>gleoite<s n="adj"/></r></p></e>
+    <e><p><l>lovely<s n="adj"/><s n="sint"/></l><r>gleoite<s n="adj"/></r></p></e>
+    <e><p><l>clever<s n="adj"/></l><r>glic<s n="adj"/></r></p></e>
+    <e><p><l>sly<s n="adj"/><s n="sint"/></l><r>glic<s n="adj"/></r></p></e>
+    <e><p><l>active<s n="adj"/></l><r>gníomhach<s n="adj"/></r></p></e>
+    <e><p><l>sensitive<s n="adj"/></l><r>goilliúnach<s n="adj"/></r></p></e>
+    <e><p><l>touchy<s n="adj"/><s n="sint"/></l><r>goilliúnach<s n="adj"/></r></p></e>
+    <e><p><l>blue<s n="adj"/><s n="sint"/></l><r>gorm<s n="adj"/></r></p></e>
+    <e><p><l>barren<s n="adj"/></l><r>gortach<s n="adj"/></r></p></e>
+    <e><p><l>hungry<s n="adj"/><s n="sint"/></l><r>gortach<s n="adj"/></r></p></e>
+    <e><p><l>mean<s n="adj"/><s n="sint"/></l><r>gortach<s n="adj"/></r></p></e>
+    <e><p><l>hurt<s n="adj"/></l><r>gortaithe<s n="adj"/></r></p></e>
+    <e><p><l>injured<s n="adj"/></l><r>gortaithe<s n="adj"/></r></p></e>
+    <e><p><l>disagreeable<s n="adj"/></l><r>gránna<s n="adj"/></r></p></e>
+    <e><p><l>ugly<s n="adj"/><s n="sint"/></l><r>gránna<s n="adj"/></r></p></e>
+    <e><p><l>graceful<s n="adj"/></l><r>grástúil<s n="adj"/></r></p></e>
+    <e><p><l>funny<s n="adj"/><s n="sint"/></l><r>greannmhar<s n="adj"/></r></p></e>
+    <e><p><l>haemophiliac<s n="adj"/></l><r>haemaifiliach<s n="adj"/></r></p></e>
+    <e><p><l>hydroelectric<s n="adj"/></l><r>hidrileictreach<s n="adj"/></r></p></e>
+    <e><p><l>hydraulic<s n="adj"/></l><r>hiodrálach<s n="adj"/></r></p></e>
+    <e><p><l>hysterical<s n="adj"/></l><r>histéireach<s n="adj"/></r></p></e>
+    <e><p><l>homosexual<s n="adj"/></l><r>hómaighnéasach<s n="adj"/></r></p></e>
+    <e><p><l>ideal<s n="adj"/></l><r>idéalach<s n="adj"/></r></p></e>
+    <e><p><l>perfect<s n="adj"/></l><r>idéalach<s n="adj"/></r></p></e>
+    <e><p><l>intermediate<s n="adj"/></l><r>idirmheánach<s n="adj"/></r></p></e>
+    <e><p><l>multicoloured<s n="adj"/></l><r>ildaite<s n="adj"/></r></p></e>
+    <e><p><l>acceptable<s n="adj"/></l><r>inghlachta<s n="adj"/></r></p></e>
+    <e><p><l>paid<s n="adj"/></l><r>íoctha<s n="adj"/></r></p></e>
+    <e><p><l>all<s n="adj"/></l><r>iomlán<s n="adj"/></r></p></e>
+    <e><p><l>complete<s n="adj"/></l><r>iomlán<s n="adj"/></r></p></e>
+    <e><p><l>overall<s n="adj"/></l><r>iomlán<s n="adj"/></r></p></e>
+    <e><p><l>pure<s n="adj"/></l><r>íon<s n="adj"/></r></p></e>
+    <e><p><l>amazing<s n="adj"/></l><r>iontach<s n="adj"/></r></p></e>
+    <e><p><l>wonderful<s n="adj"/></l><r>iontach<s n="adj"/></r></p></e>
+    <e><p><l>beloved<s n="adj"/></l><r>ionúin<s n="adj"/></r></p></e>
+    <e><p><l>dear<s n="adj"/></l><r>ionúin<s n="adj"/></r></p></e>
+    <e><p><l>smallest<s n="adj"/></l><r>is<b/>lú<s n="adj"/></r></p></e>
+    <e><p><l>low<s n="adj"/><s n="sint"/></l><r>íseal<s n="adj"/></r></p></e>
+    <e><p><l>strong<s n="adj"/><s n="sint"/></l><r>láidir<s n="adj"/></r></p></e>
+    <e><p><l>immediate<s n="adj"/></l><r>láithreach<s n="adj"/></r></p></e>
+    <e><p><l>present<s n="adj"/></l><r>láithreach<s n="adj"/></r></p></e>
+    <e><p><l>boring<s n="adj"/></l><r>leadránach<s n="adj"/></r></p></e>
+    <e><p><l>agonising<s n="adj"/></l><r>léanmhar<s n="adj"/></r></p></e>
+    <e><p><l>distressed<s n="adj"/></l><r>léanmhar<s n="adj"/></r></p></e>
+    <e><p><l>grievous<s n="adj"/></l><r>léanmhar<s n="adj"/></r></p></e>
+    <e><p><l>frail<s n="adj"/></l><r>leochaileach<s n="adj"/></r></p></e>
+    <e><p><l>tender<s n="adj"/></l><r>leochaileach<s n="adj"/></r></p></e>
+    <e><p><l>ample<s n="adj"/></l><r>leor<s n="adj"/></r></p></e>
+    <e><p><l>sufficient<s n="adj"/></l><r>leor<s n="adj"/></r></p></e>
+    <e><p><l>grey<s n="adj"/><s n="sint"/></l><r>liath<s n="adj"/></r></p></e>
+    <e><p><l>liberal<s n="adj"/></l><r>liobrálach<s n="adj"/></r></p></e>
+    <e><p><l>local<s n="adj"/></l><r>logánta<s n="adj"/></r></p></e>
+    <e><p><l>luminous<s n="adj"/></l><r>lonrach<s n="adj"/></r></p></e>
+    <e><p><l>shiny<s n="adj"/><s n="sint"/></l><r>lonrach<s n="adj"/></r></p></e>
+    <e><p><l>good<s n="adj"/><s n="sint"/></l><r>maith<s n="adj"/></r></p></e>
+    <e><p><l>slow<s n="adj"/><s n="sint"/></l><r>mall<s n="adj"/></r></p></e>
+    <e><p><l>damned<s n="adj"/></l><r>mallaithe<s n="adj"/></r></p></e>
+    <e><p><l>wealthy<s n="adj"/><s n="sint"/></l><r>maoineach<s n="adj"/></r></p></e>
+    <e><p><l>bald<s n="adj"/></l><r>maol<s n="adj"/></r></p></e>
+    <e><p><l>blunt<s n="adj"/></l><r>maol<s n="adj"/></r></p></e>
+    <e><p><l>dead<s n="adj"/></l><r>marbh<s n="adj"/></r></p></e>
+    <e><p><l>deadly<s n="adj"/></l><r>marfach<s n="adj"/></r></p></e>
+    <e><p><l>fatal<s n="adj"/></l><r>marfach<s n="adj"/></r></p></e>
+    <e><p><l>lethal<s n="adj"/></l><r>marfach<s n="adj"/></r></p></e>
+    <e><p><l>mortal<s n="adj"/></l><r>marfach<s n="adj"/></r></p></e>
+    <e><p><l>sexy<s n="adj"/><s n="sint"/></l><r>mealltach<s n="adj"/></r></p></e>
+    <e><p><l>gastly<s n="adj"/><s n="sint"/></l><r>meata<s n="adj"/></r></p></e>
+    <e><p><l>gone<b/>bad<s n="adj"/></l><r>meata<s n="adj"/></r></p></e>
+    <e><p><l>sick<s n="adj"/><s n="sint"/></l><r>meata<s n="adj"/></r></p></e>
+    <e><p><l>spineless<s n="adj"/></l><r>meata<s n="adj"/></r></p></e>
+    <e><p><l>incorrect<s n="adj"/></l><r>mícheart<s n="adj"/></r></p></e>
+    <e><p><l>wrong<s n="adj"/></l><r>mícheart<s n="adj"/></r></p></e>
+    <e><p><l>sweet<s n="adj"/><s n="sint"/></l><r>milis<s n="adj"/></r></p></e>
+    <e><p><l>ruined<s n="adj"/></l><r>millte<s n="adj"/></r></p></e>
+    <e><p><l>spoiled<s n="adj"/></l><r>millte<s n="adj"/></r></p></e>
+    <e><p><l>frequent<s n="adj"/></l><r>minic<s n="adj"/></r></p></e>
+    <e><p><l>malicious<s n="adj"/></l><r>mioscaiseach<s n="adj"/></r></p></e>
+    <e><p><l>mischievous<s n="adj"/></l><r>mioscaiseach<s n="adj"/></r></p></e>
+    <e><p><l>monthly<s n="adj"/></l><r>míosúil<s n="adj"/></r></p></e>
+    <e><p><l>angry<s n="adj"/><s n="sint"/></l><r>mire<s n="adj"/></r></p></e>
+    <e><p><l>mad<s n="adj"/><s n="sint"/></l><r>mire<s n="adj"/></r></p></e>
+    <e><p><l>untidy<s n="adj"/><s n="sint"/></l><r>míshlachtmhar<s n="adj"/></r></p></e>
+    <e><p><l>my<s n="adj"/></l><r>mo<s n="adj"/></r></p></e>
+    <e><p><l>big<s n="adj"/></l><r>mór<s n="adj"/></r></p></e>
+    <e><p><l>great<s n="adj"/></l><r>mór<s n="adj"/></r></p></e>
+    <e><p><l>large<s n="adj"/></l><r>mór<s n="adj"/></r></p></e>
+    <e><p><l>large-scale<s n="adj"/></l><r>mór<s n="adj"/></r></p></e>
+    <e><p><l>dependable<s n="adj"/></l><r>muiníneach<s n="adj"/></r></p></e>
+    <e><p><l>trustworthy<s n="adj"/></l><r>muiníneach<s n="adj"/></r></p></e>
+    <e><p><l>national<s n="adj"/></l><r>náisiúnta<s n="adj"/></r></p></e>
+    <e><p><l>nationwide<s n="adj"/></l><r>náisiúnta<s n="adj"/></r></p></e>
+    <e><p><l>divine<s n="adj"/></l><r>naofa<s n="adj"/></r></p></e>
+    <e><p><l>hallowed<s n="adj"/></l><r>naofa<s n="adj"/></r></p></e>
+    <e><p><l>holy<s n="adj"/></l><r>naofa<s n="adj"/></r></p></e>
+    <e><p><l>sacred<s n="adj"/></l><r>naofa<s n="adj"/></r></p></e>
+    <e><p><l>innocent<s n="adj"/></l><r>neamhchiontach<s n="adj"/></r></p></e>
+    <e><p><l>not<b/>guilty<s n="adj"/></l><r>neamhchiontach<s n="adj"/></r></p></e>
+    <e><p><l>unconditional<s n="adj"/></l><r>neamhchoinníollach<s n="adj"/></r></p></e>
+    <e><p><l>illegal<s n="adj"/></l><r>neamhdhleathach<s n="adj"/></r></p></e>
+    <e><p><l>unrealistic<s n="adj"/></l><r>neamhréadúil<s n="adj"/></r></p></e>
+    <e><p><l>indefinite<s n="adj"/></l><r>neamhshonrach<s n="adj"/></r></p></e>
+    <e><p><l>less<s n="adj"/></l><r>níos<b/>lú<s n="adj"/></r></p></e>
+    <e><p><l>bigger<s n="adj"/></l><r>níos<b/>mó<b/>ná<s n="adj"/></r></p></e>
+    <e><p><l>new<s n="adj"/><s n="sint"/></l><r>nua<s n="adj"/></r></p></e>
+    <e><p><l>modern<s n="adj"/></l><r>nua-aimseartha<s n="adj"/></r></p></e>
+    <e><p><l>innovative<s n="adj"/></l><r>nuálach<s n="adj"/></r></p></e>
+    <e><p><l>young<s n="adj"/></l><r>óg<s n="adj"/></r></p></e>
+    <e><p><l>nightly<s n="adj"/></l><r>oíche<s n="adj"/></r></p></e>
+    <e><p><l>insular<s n="adj"/></l><r>oileánach<s n="adj"/></r></p></e>
+    <e><p><l>suitable<s n="adj"/></l><r>oiriúnach<s n="adj"/></r></p></e>
+    <e><p><l>huge<s n="adj"/></l><r>ollmhór<s n="adj"/></r></p></e>
+    <e><p><l>massive<s n="adj"/></l><r>ollmhór<s n="adj"/></r></p></e>
+    <e><p><l>drunk<s n="adj"/></l><r>ólta<s n="adj"/></r></p></e>
+    <e><p><l>honourable<s n="adj"/></l><r>Onórach<s n="adj"/></r></p></e>
+    <e><p><l>orange<s n="adj"/></l><r>oráiste<s n="adj"/></r></p></e>
+    <e><p><l>golden<s n="adj"/></l><r>órga<s n="adj"/></r></p></e>
+    <e><p><l>open<s n="adj"/></l><r>oscailte<s n="adj"/></r></p></e>
+    <e><p><l>passionate<s n="adj"/></l><r>paiseanta<s n="adj"/></r></p></e>
+    <e><p><l>personal<s n="adj"/></l><r>pearsanta<s n="adj"/></r></p></e>
+    <e><p><l>imperative<s n="adj"/></l><r>práinneach<s n="adj"/></r></p></e>
+    <e><p><l>pressing<s n="adj"/></l><r>práinneach<s n="adj"/></r></p></e>
+    <e><p><l>urgent<s n="adj"/></l><r>práinneach<s n="adj"/></r></p></e>
+    <e><p><l>freezing<s n="adj"/></l><r>préachta<s n="adj"/></r></p></e>
+    <e><p><l>perished<s n="adj"/></l><r>préachta<s n="adj"/></r></p></e>
+    <e><p><l>fat<s n="adj"/><s n="sint"/></l><r>ramhar<s n="adj"/></r></p></e>
+    <e><p><l>plump<s n="adj"/><s n="sint"/></l><r>ramhar<s n="adj"/></r></p></e>
+    <e><p><l>thick<s n="adj"/><s n="sint"/></l><r>ramhar<s n="adj"/></r></p></e>
+    <e><p><l>pragmatic<s n="adj"/></l><r>réadúil<s n="adj"/></r></p></e>
+    <e><p><l>realistic<s n="adj"/></l><r>réadúil<s n="adj"/></r></p></e>
+    <e><p><l>rebel<s n="adj"/></l><r>reibiliúnach<s n="adj"/></r></p></e>
+    <e><p><l>dismal<s n="adj"/></l><r>riabhach<s n="adj"/></r></p></e>
+    <e><p><l>dull<s n="adj"/></l><r>riabhach<s n="adj"/></r></p></e>
+    <e><p><l>streaked<s n="adj"/></l><r>riabhach<s n="adj"/></r></p></e>
+    <e><p><l>striped<s n="adj"/></l><r>riabhach<s n="adj"/></r></p></e>
+    <e><p><l>red-haired<s n="adj"/></l><r>rua<s n="adj"/></r></p></e>
+    <e><p><l>redheaded<s n="adj"/></l><r>rua<s n="adj"/></r></p></e>
+    <e><p><l>secretive<s n="adj"/></l><r>rúnmhar<s n="adj"/></r></p></e>
+    <e><p><l>rich<s n="adj"/><s n="sint"/></l><r>saibhir<s n="adj"/></r></p></e>
+    <e><p><l>cheap<s n="adj"/><s n="sint"/></l><r>saor<s n="adj"/></r></p></e>
+    <e><p><l>English<s n="adj"/></l><r>Sasanach<s n="adj"/></r></p></e>
+    <e><p><l>pleased<s n="adj"/></l><r>sásta<s n="adj"/></r></p></e>
+    <e><p><l>scared<s n="adj"/></l><r>scanraithe<s n="adj"/></r></p></e>
+    <e><p><l>estranged<s n="adj"/></l><r>scartha<s n="adj"/></r></p></e>
+    <e><p><l>separate<s n="adj"/></l><r>scartha<s n="adj"/></r></p></e>
+    <e><p><l>old<s n="adj"/><s n="sint"/></l><r>sean<s n="adj"/></r></p></e>
+    <e><p><l>stable<s n="adj"/></l><r>seasmhach<s n="adj"/></r></p></e>
+    <e><p><l>fixed<s n="adj"/></l><r>seasta<s n="adj"/></r></p></e>
+    <e><p><l>permanent<s n="adj"/></l><r>seasta<s n="adj"/></r></p></e>
+    <e><p><l>standing<s n="adj"/></l><r>seasta<s n="adj"/></r></p></e>
+    <e><p><l>mellow<s n="adj"/><s n="sint"/></l><r>séimh<s n="adj"/></r></p></e>
+    <e><p><l>mild<s n="adj"/><s n="sint"/></l><r>séimh<s n="adj"/></r></p></e>
+    <e><p><l>Serbian<s n="adj"/></l><r>Seirbiach<s n="adj"/></r></p></e>
+    <e><p><l>this<s n="adj"/></l><r>seo<s n="adj"/></r></p></e>
+    <e><p><l>psychological<s n="adj"/></l><r>síceolaíoch<s n="adj"/></r></p></e>
+    <e><p><l>symmetric<s n="adj"/></l><r>siméadrach<s n="adj"/></r></p></e>
+    <e><p><l>symmetrical<s n="adj"/></l><r>siméadrach<s n="adj"/></r></p></e>
+    <e><p><l>ancestral<s n="adj"/></l><r>sinsearach<s n="adj"/></r></p></e>
+    <e><p><l>senior<s n="adj"/></l><r>sinsearach<s n="adj"/></r></p></e>
+    <e><p><l>endless<s n="adj"/></l><r>síoraí<s n="adj"/></r></p></e>
+    <e><p><l>eternal<s n="adj"/></l><r>síoraí<s n="adj"/></r></p></e>
+    <e><p><l>perennial<s n="adj"/></l><r>síoraí<s n="adj"/></r></p></e>
+    <e><p><l>timeless<s n="adj"/></l><r>síoraí<s n="adj"/></r></p></e>
+    <e><p><l>sleek<s n="adj"/></l><r>sleamhain<s n="adj"/></r></p></e>
+    <e><p><l>slippery<s n="adj"/></l><r>sleamhain<s n="adj"/></r></p></e>
+    <e><p><l>slippy<s n="adj"/><s n="sint"/></l><r>sleamhain<s n="adj"/></r></p></e>
+    <e><p><l>cheerful<s n="adj"/></l><r>soilbhir<s n="adj"/></r></p></e>
+    <e><p><l>junior<s n="adj"/></l><r>sóisearach<s n="adj"/></r></p></e>
+    <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>sona<s n="adj"/></r></p></e>
+    <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>sonasach<s n="adj"/></r></p></e>
+    <e><p><l>special<s n="adj"/></l><r>speisialta<s n="adj"/></r></p></e>
+    <e><p><l>exhausted<s n="adj"/></l><r>spíonta<s n="adj"/></r></p></e>
+    <e><p><l>worn<b/>out<s n="adj"/></l><r>spíonta<s n="adj"/></r></p></e>
+    <e><p><l>sporty<s n="adj"/></l><r>spórtúil<s n="adj"/></r></p></e>
+    <e><p><l>stressful<s n="adj"/></l><r>strusmhar<s n="adj"/></r></p></e>
+    <e><p><l>peaceful<s n="adj"/></l><r>suaimhneach<s n="adj"/></r></p></e>
+    <e><p><l>relaxing<s n="adj"/></l><r>suaimhneach<s n="adj"/></r></p></e>
+    <e><p><l>serene<s n="adj"/></l><r>suaimhneach<s n="adj"/></r></p></e>
+    <e><p><l>dirty<s n="adj"/></l><r>suarach<s n="adj"/></r></p></e>
+    <e><p><l>light<s n="adj"/></l><r>suarach<s n="adj"/></r></p></e>
+    <e><p><l>mean<s n="adj"/></l><r>suarach<s n="adj"/></r></p></e>
+    <e><p><l>petty<s n="adj"/></l><r>suarach<s n="adj"/></r></p></e>
+    <e><p><l>sickly<s n="adj"/></l><r>suarach<s n="adj"/></r></p></e>
+    <e><p><l>impressive<s n="adj"/></l><r>suntasach<s n="adj"/></r></p></e>
+    <e><p><l>noticeable<s n="adj"/></l><r>suntasach<s n="adj"/></r></p></e>
+    <e><p><l>impulsive<s n="adj"/></l><r>tallannach<s n="adj"/></r></p></e>
+    <e><p><l>temperamental<s n="adj"/></l><r>tallannach<s n="adj"/></r></p></e>
+    <e><p><l>fast<s n="adj"/><s n="sint"/></l><r>tapa<s n="adj"/></r></p></e>
+    <e><p><l>quick<s n="adj"/><s n="sint"/></l><r>tapa<s n="adj"/></r></p></e>
+    <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>te<s n="adj"/></r></p></e>
+    <e><p><l>rare<s n="adj"/></l><r>tearc<s n="adj"/></r></p></e>
+    <e><p><l>scarce<s n="adj"/></l><r>tearc<s n="adj"/></r></p></e>
+    <e><p><l>abstract<s n="adj"/></l><r>teibí<s n="adj"/></r></p></e>
+    <e><p><l>above<s n="adj"/></l><r>thuas<s n="adj"/></r></p></e>
+    <e><p><l>sick<s n="adj"/><s n="sint"/></l><r>tinn<s n="adj"/></r></p></e>
+    <e><p><l>sore<s n="adj"/></l><r>tinn<s n="adj"/></r></p></e>
+    <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>tintrí<s n="adj"/></r></p></e>
+    <e><p><l>hot-headed<s n="adj"/></l><r>tintrí<s n="adj"/></r></p></e>
+    <e><p><l>dry<s n="adj"/><s n="sint"/></l><r>tirim<s n="adj"/></r></p></e>
+    <e><p><l>pregnant<s n="adj"/></l><r>torrach<s n="adj"/></r></p></e>
+    <e><p><l>started<s n="adj"/></l><r>tosaithe<s n="adj"/></r></p></e>
+    <e><p><l>exhausted<s n="adj"/></l><r>traochta<s n="adj"/></r></p></e>
+    <e><p><l>exhausting<s n="adj"/></l><r>traochta<s n="adj"/></r></p></e>
+    <e><p><l>pathetic<s n="adj"/></l><r>truamhéalach<s n="adj"/></r></p></e>
+    <e><p><l>tired<s n="adj"/></l><r>tuirseach<s n="adj"/></r></p></e>
+    <e><p><l>horrible<s n="adj"/></l><r>uafásach<s n="adj"/></r></p></e>
+    <e><p><l>terrible<s n="adj"/></l><r>uafásach<s n="adj"/></r></p></e>
+    <e><p><l>creepy<s n="adj"/><s n="sint"/></l><r>uaigneach<s n="adj"/></r></p></e>
+    <e><p><l>lonely<s n="adj"/><s n="sint"/></l><r>uaigneach<s n="adj"/></r></p></e>
+    <e><p><l>spooky<s n="adj"/><s n="sint"/></l><r>uaigneach<s n="adj"/></r></p></e>
+    <e><p><l>green<s n="adj"/><s n="sint"/></l><r>uaine<s n="adj"/></r></p></e>
+    <e><p><l>almighty<s n="adj"/></l><r>uilechumhachtach<s n="adj"/></r></p></e>
+    <e><p><l>fully<s n="adj"/></l><r>ar<b/>fad<s n="adj"/></r></p></e>
+    <e><p><l>outright<s n="adj"/></l><r>ar<b/>fad<s n="adj"/></r></p></e>
+    <e><p><l>long<s n="adj"/><s n="sint"/></l><r>fada<s n="adj"/></r></p></e>
+    <e><p><l>safe<s n="adj"/><s n="sint"/></l><r>slán<s n="adj"/></r></p></e>
+ 
+
 
     <e><p><l>bury<s n="vblex"/></l><r>adhlaic<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admhaigh<s n="vblex"/></r></p></e>
