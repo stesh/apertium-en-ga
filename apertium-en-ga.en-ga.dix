@@ -985,42 +985,45 @@
 
     <e><p><l>confrontational<s n="adj"/></l><r>achrannach<s n="adj"/></r></p></e>
     <e><p><l>quarrelsome<s n="adj"/></l><r>achrannach<s n="adj"/></r></p></e>
-    <e><p><l>fortunate<s n="adj"/></l><r>ádhúil<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>fortunate<s n="adj"/></l><r>ádhúil<s n="adj"/></r></p></e>
     <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>ádhúil<s n="adj"/></r></p></e>
-    <e><p><l>gay<s n="adj"/><s n="sint"/></l><r>aerach<s n="adj"/></r></p></e>
+    <e><p><l>airy<s n="adj"/><s n="sint"/></l><r>aerach<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>frivolous<s n="adj"/></l><r>aerach<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>gay<s n="adj"/><s n="sint"/></l><r>aerach<s n="adj"/></r></p></e>
     <e><p><l>Ethiopian<s n="adj"/></l><r>Aetópach<s n="adj"/></r></p></e>
     <e><p><l>peculiar<s n="adj"/></l><r>aisteach<s n="adj"/></r></p></e>
-    <e><p><l>comic<s n="adj"/></l><r>ait<s n="adj"/></r></p></e>
-    <e><p><l>eccentric<s n="adj"/></l><r>ait<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>comic<s n="adj"/></l><r>ait<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>eccentric<s n="adj"/></l><r>ait<s n="adj"/></r></p></e>
     <e><p><l>odd<s n="adj"/><s n="sint"/></l><r>ait<s n="adj"/></r></p></e>
-    <e><p><l>strange<s n="adj"/><s n="sint"/></l><r>ait<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>strange<s n="adj"/><s n="sint"/></l><r>ait<s n="adj"/></r></p></e>
     <e><p><l>local<s n="adj"/></l><r>áitiúil<s n="adj"/></r></p></e>
     <e><p><l>beautiful<s n="adj"/></l><r>álainn<s n="adj"/></r></p></e>
-    <e><p><l>sheer<s n="adj"/></l><r>amach<s n="adj"/></r></p></e>
+    <e><p><l>outward<s n="adj"/></l><r>amach<s n="adj"/></r></p></e>
     <e><p><l>foolish<s n="adj"/></l><r>amaideach<s n="adj"/></r></p></e>
     <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>ámharach<s n="adj"/></r></p></e>
     <e><p><l>debatable<s n="adj"/></l><r>amhrasach<s n="adj"/></r></p></e>
-    <e><p><l>glorious<s n="adj"/></l><r>aoibhinn<s n="adj"/></r></p></e>
-    <e><p><l>very<b/>nice<s n="adj"/></l><r>aoibhinn<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>glorious<s n="adj"/></l><r>aoibhinn<s n="adj"/></r></p></e>
+    <e><p><l>wonderful<s n="adj"/></l><r>aoibhinn<s n="adj"/></r></p></e>
     <e><p><l>single<s n="adj"/></l><r>aonarach<s n="adj"/></r></p></e>
     <e><p><l>high<s n="adj"/><s n="sint"/></l><r>ard<s n="adj"/></r></p></e>
-    <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>ard<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>tall<s n="adj"/><s n="sint"/></l><r>ard<s n="adj"/></r></p></e>
     <e><p><l>revised<s n="adj"/></l><r>athbhreithnithe<s n="adj"/></r></p></e>
     <e><p><l>changed<s n="adj"/></l><r>athraithe<s n="adj"/></r></p></e>
-    <e><p><l>transformed<s n="adj"/></l><r>athraithe<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>transformed<s n="adj"/></l><r>athraithe<s n="adj"/></r></p></e>
     <e><p><l>female<s n="adj"/></l><r>baineann<s n="adj"/></r></p></e>
     <e><p><l>white<s n="adj"/><s n="sint"/></l><r>bán<s n="adj"/></r></p></e>
     <e><p><l>pink<s n="adj"/><s n="sint"/></l><r>bándearg<s n="adj"/></r></p></e>
     <e><p><l>dangerous<s n="adj"/></l><r>baolach<s n="adj"/></r></p></e>
-    <e><p><l>little<s n="adj"/><s n="sint"/></l><r>beag<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>little<s n="adj"/><s n="sint"/></l><r>beag<s n="adj"/></r></p></e>
+    <e><p><l>small<s n="adj"/><s n="sint"/></l><r>beag<s n="adj"/></r></p></e>
     <e><p><l>sacred<s n="adj"/></l><r>beannaithe<s n="adj"/></r></p></e>
     <e><p><l>live<s n="adj"/></l><r>beo<s n="adj"/></r></p></e>
-    <e><p><l>your<s n="adj"/></l><r>bhur<s n="adj"/></r></p></e>
+    <e c="det.pos"><p><l>your<s n="adj"/></l><r>bhur<s n="adj"/></r></p></e>
     <e><p><l>minute<s n="adj"/></l><r>bídeach<s n="adj"/></r></p></e>
     <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>bídeach<s n="adj"/></r></p></e>
     <e><p><l>melodious<s n="adj"/></l><r>binn<s n="adj"/></r></p></e>
-    <e><p><l>sweet<s n="adj"/><s n="sint"/></l><r>binn<s n="adj"/></r></p></e>
-    <e><p><l>savoury<s n="adj"/></l><r>blasta<s n="adj"/></r></p></e>
+    <e><p><l>sweet<s n="adj"/><s n="sint"/></l><r>milis<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>savoury<s n="adj"/></l><r>blasta<s n="adj"/></r></p></e>
     <e><p><l>tasty<s n="adj"/><s n="sint"/></l><r>blasta<s n="adj"/></r></p></e>
     <e><p><l>soft<s n="adj"/><s n="sint"/></l><r>bog<s n="adj"/></r></p></e>
     <e><p><l>broken<s n="adj"/></l><r>briste<s n="adj"/></r></p></e>
