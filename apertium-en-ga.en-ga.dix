@@ -333,7 +333,10 @@
     <e a="coregan"><p><l>song<s n="n"/></l><r>amhrán<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>singer<s n="n"/></l><r>amhránaí<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>breath<s n="n"/></l><r>anáil<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>inhale<s n="n"/></l><r>análú<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>breathing<s n="n"/></l><r>análú<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>inhalation<s n="n"/></l><r>análú<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>breathe<s n="vblex"/></l><r>análú<s n="vblex"/></r></p></e>
+    <e><p><l>exhale<s n="vblex"/></l><r>easanálú<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>soul<s n="n"/></l><r>anam<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>salt<s n="n"/></l><r>anlann<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>soup<s n="n"/></l><r>anraith<s n="n"/><s n="m"/></r></p></e>
@@ -342,13 +345,15 @@
     <e a="coregan"><p><l>elevator<s n="n"/></l><r>ardaitheoir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>cathedral<s n="n"/></l><r>ardeaglais<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>archbishop<s n="n"/></l><r>ardeaspag<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>lift<s n="n"/></l><r>ardú<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>elevation<s n="n"/></l><r>ardú<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>lift<s n="vblex"/></l><r>ardú<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>donkey<s n="n"/></l><r>asal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sorcery<s n="n"/></l><r>asarlaíocht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asthma<s n="n"/></l><r>asma<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>fort<s n="n"/></l><r>áth<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>father<s n="n"/></l><r>athair<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>change<s n="n"/></l><r>athrú<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>for<b/>a<b/>change<s n="adv"/></l><r>mar<b/>athrú<s n="adv"/></r></p></e>
     <e a="coregan"><p><l>atlas<s n="n"/></l><r>atlas<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>attorney<s n="n"/></l><r>aturnae<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bowl<s n="n"/></l><r>babhla<s n="n"/><s n="m"/></r></p></e>
