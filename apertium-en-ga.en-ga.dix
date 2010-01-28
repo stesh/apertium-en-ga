@@ -696,11 +696,13 @@
     <e a="coregan"><p><l>holy<s n="n"/></l><r>dé<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>nice<b/>taste<s n="n"/></l><r>dea-bhlas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>nice<b/>smell<s n="n"/></l><r>dea-bholadh<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>hard<s n="n"/></l><r>deacair<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>difficult<s n="adj"/></l><r>deacair<s n="adj"/></r></p></e>
+    <e><p><l>difficulty<s n="n"/></l><r>deacair<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>teenager<s n="n"/></l><r>déagóir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>thorn<s n="n"/></l><r>dealg<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>needle<s n="n"/></l><r>dealgán<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>red<s n="n"/></l><r>dearg<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>red<s n="adj"/></l><r>dearg<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>forget<s n="n"/></l><r>dearmad<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>brother<s n="n"/></l><r>deartháir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>desk<s n="n"/></l><r>deasc<s n="n"/><s n="f"/></r></p></e>
@@ -712,7 +714,9 @@
     <e a="coregan"><p><l>rush<s n="n"/></l><r>deifir<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>end<s n="n"/></l><r>deireadh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>sister<s n="n"/></l><r>deirfiúr<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>mend<s n="n"/></l><r>deisiú<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>repair<s n="n"/></l><r>deisiú<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan" r="LR"><p><l>mend<s n="vblex"/></l><r>deisiú<s n="vblex"/></r></p></e>
+    <e a="coregan"><p><l>repair<s n="vblex"/></l><r>deisiú<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>disgust<s n="n"/></l><r>déistin<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>drink<s n="n"/></l><r>deoch<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>dioxide<s n="n"/></l><r>dé-ocsaíd<s n="n"/><s n="f"/></r></p></e>
@@ -722,9 +726,12 @@
     <e a="coregan"><p><l>diary<s n="n"/></l><r>dialann<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>industry<s n="n"/></l><r>dícheall<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>difference<s n="n"/></l><r>difríocht<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>sell<s n="n"/></l><r>díol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sale<s n="n"/></l><r>díol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>for<b/>sale<s n="adv"/></l><r>le<b/>díol<s n="adv"/></r></p></e>
+    <e a="coregan"><p><l>sell<s n="vblex"/></l><r>díol<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>shame<s n="n"/></l><r>díomas<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>hard<s n="n"/></l><r>díon<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>hard<s n="adv"/></l><r>go<b/>díon<s n="adv"/></r></p></e>
+    <e><p><l>roof<s n="n"/></l><r>díon<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>debate<s n="n"/></l><r>díospóireacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>guy<s n="n"/></l><r>diúlach<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>law<s n="n"/></l><r>dlí<s n="n"/><s n="m"/></r></p></e>
@@ -732,7 +739,7 @@
     <e a="coregan"><p><l>forensic<b/>science<s n="n"/></l><r>dlí-eolaíocht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>lawyer<s n="n"/></l><r>dlíodóir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>density<s n="n"/></l><r>dlús<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>dense<s n="n"/></l><r>dlúth<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>dense<s n="adj"/></l><r>dlúth<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>compact<b/>disc<s n="n"/></l><r>dlúthdhiosca<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>two<s n="n"/></l><r>dó<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>ass<s n="n"/></l><r>dobhrán<s n="n"/><s n="m"/></r></p></e>
@@ -740,7 +747,8 @@
     <e a="coregan"><p><l>hope<s n="n"/></l><r>dóchas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>doctor<s n="n"/></l><r>dochtúir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>doctoring<s n="n"/></l><r>dochtúireacht<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>burn<s n="n"/></l><r>dóigh<s n="n"/><s n="f"/></r></p></e>
+    <e a="coregan"><p><l>burn<s n="vblex"/></l><r>dóigh<s n="vblex"/></r></p></e>
+    <e><p><l>mannerism<s n="n"/></l><r>dóigh<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>sink<s n="n"/></l><r>doirteal<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>fire<s n="n"/></l><r>dóiteán<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>earth<s n="n"/></l><r>domhan<s n="n"/><s n="m"/></r></p></e>
@@ -754,18 +762,20 @@
     <e a="coregan"><p><l>back<s n="n"/></l><r>droim<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>rectangle<s n="n"/></l><r>dronuillinn<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>drug<s n="n"/></l><r>druga<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>closer<s n="n"/></l><r>druidim<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>drum<s n="n"/></l><r>druma<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>drummer<s n="n"/></l><r>drumadóir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>drumming<s n="n"/></l><r>drumadóireacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>prize<s n="n"/></l><r>duais<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>kidney<s n="n"/></l><r>duán<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>black<s n="n"/></l><r>dubh<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>black<s n="adj"/></l><r>dubh<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>nature<s n="n"/></l><r>dúchas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>native<s n="n"/></l><r>dúchasach<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>native<s n="adj"/></l><r>dúchasach<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>leaf<s n="n"/></l><r>duilleog<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>person<s n="n"/></l><r>duine<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>close<s n="n"/></l><r>dún<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>close<s n="vblex"/></l><r>dúnadh<s n="vblex"/></r></p></e>
+    <e><p><l>fort<s n="n"/></l><r>dún<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>murder<s n="n"/></l><r>dúnmharú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>achievement<s n="n"/></l><r>éacht<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>incident<s n="n"/></l><r>eachtra<s n="n"/><s n="f"/></r></p></e>
