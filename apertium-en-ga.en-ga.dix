@@ -1052,21 +1052,23 @@
     <e><p><l>fond<s n="adj"/><s n="sint"/></l><r>ceanúil<s n="adj"/></r></p></e>
     <e><p><l>wrong<s n="adj"/></l><r>cearr<s n="adj"/></r></p></e>
     <e><p><l>correct<s n="adj"/></l><r>ceart<s n="adj"/></r></p></e>
+    <e><p><l>incorrect<s n="adj"/></l><r>míceart<s n="adj"/></r></p></e>
     <e><p><l>right<s n="adj"/></l><r>ceart<s n="adj"/></r></p></e>
     <e><p><l>Celtic<s n="adj"/></l><r>Ceilteach<s n="adj"/></r></p></e>
     <e><p><l>four<s n="adj"/></l><r>ceithre<s n="adj"/></r></p></e>
     <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>ciúin<s n="adj"/></r></p></e>
-    <e><p><l>silent<s n="adj"/></l><r>ciúin<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>silent<s n="adj"/></l><r>ciúin<s n="adj"/></r></p></e>
     <e><p><l>left<s n="adj"/></l><r>clé<s n="adj"/></r></p></e>
-    <e><p><l>cute<s n="adj"/><s n="sint"/></l><r>cleasach<s n="adj"/></r></p></e>
+    <e><p><l>cunning<s n="adj"/></l><r>cleasach<s n="adj"/></r></p></e>
     <e><p><l>intelligent<s n="adj"/></l><r>cliste<s n="adj"/></r></p></e>
     <e><p><l>smart<s n="adj"/><s n="sint"/></l><r>cliste<s n="adj"/></r></p></e>
     <e><p><l>famed<s n="adj"/></l><r>clúiteach<s n="adj"/></r></p></e>
-    <e><p><l>renowned<s n="adj"/></l><r>clúiteach<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>renowned<s n="adj"/></l><r>clúiteach<s n="adj"/></r></p></e>
     <e><p><l>sleepy<s n="adj"/><s n="sint"/></l><r>codlatach<s n="adj"/></r></p></e>
     <e><p><l>conservative<s n="adj"/></l><r>coimeádach<s n="adj"/></r></p></e>
     <e><p><l>isosceles<s n="adj"/></l><r>comhchosach<s n="adj"/></r></p></e>
     <e><p><l>purple<s n="adj"/></l><r>corcra<s n="adj"/></r></p></e>
+    <e><p><l>purple<s n="n"/></l><r>corcra<s n="n"/><s ="m"/></r></p></e>
     <e><p><l>erratic<s n="adj"/></l><r>corrach<s n="adj"/></r></p></e>
     <e><p><l>shifty<s n="adj"/><s n="sint"/></l><r>corrach<s n="adj"/></r></p></e>
     <e><p><l>uneven<s n="adj"/></l><r>corrach<s n="adj"/></r></p></e>
@@ -1115,14 +1117,12 @@
     <e><p><l>closed<s n="adj"/></l><r>druidte<s n="adj"/></r></p></e>
     <e><p><l>shut<s n="adj"/></l><r>druidte<s n="adj"/></r></p></e>
     <e><p><l>black<s n="adj"/><s n="sint"/></l><r>dubh<s n="adj"/></r></p></e>
-    <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>dubh<s n="adj"/></r></p></e>
     <e><p><l>closed<s n="adj"/></l><r>dúnta<s n="adj"/></r></p></e>
     <e><p><l>envious<s n="adj"/></l><r>éadmhar<s n="adj"/></r></p></e>
     <e><p><l>jealous<s n="adj"/></l><r>éadmhar<s n="adj"/></r></p></e>
     <e><p><l>delicate<s n="adj"/></l><r>éadrom<s n="adj"/></r></p></e>
     <e><p><l>unfair<s n="adj"/></l><r>éagórach<s n="adj"/></r></p></e>
     <e><p><l>unjust<s n="adj"/></l><r>éagórach<s n="adj"/></r></p></e>
-    <e><p><l>wrong<s n="adj"/></l><r>éagórach<s n="adj"/></r></p></e>
     <e><p><l>easy<s n="adj"/><s n="sint"/></l><r>éasca<s n="adj"/></r></p></e>
     <e><p><l>indecisive<s n="adj"/></l><r>éiginnte<s n="adj"/></r></p></e>
     <e><p><l>indefinite<s n="adj"/></l><r>éiginnte<s n="adj"/></r></p></e>
@@ -1156,8 +1156,6 @@
     <e><p><l>French<s n="adj"/></l><r>Francach<s n="adj"/></r></p></e>
     <e><p><l>fried<s n="adj"/></l><r>friochta<s n="adj"/></r></p></e>
     <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>fuar<s n="adj"/></r></p></e>
-    <e><p><l>each<s n="adj"/></l><r>gach<s n="adj"/></r></p></e>
-    <e><p><l>every<s n="adj"/></l><r>gach<s n="adj"/></r></p></e>
     <e><p><l>Gaelic<s n="adj"/></l><r>gaelach<s n="adj"/></r></p></e>
     <e><p><l>Irish<s n="adj"/></l><r>gaelach<s n="adj"/></r></p></e>
     <e><p><l>short<s n="adj"/><s n="sint"/></l><r>gairid<s n="adj"/></r></p></e>
