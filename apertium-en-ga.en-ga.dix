@@ -779,13 +779,14 @@
     <e a="coregan"><p><l>murder<s n="n"/></l><r>dúnmharú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>achievement<s n="n"/></l><r>éacht<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>incident<s n="n"/></l><r>eachtra<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>edit<s n="n"/></l><r>eagar<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>order<s n="n"/></l><r>eagar<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>editor<s n="n"/></l><r>eagarthóir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>fear<s n="n"/></l><r>eagla<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>organisation<s n="n"/></l><r>eagrú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>swan<s n="n"/></l><r>eala<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>art<s n="n"/></l><r>ealaín<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>artist<s n="n"/></l><r>ealaíontóir<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>artistry<s n="n"/></l><r>ealaíontóireacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>escape<s n="n"/></l><r>éalú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>bird<s n="n"/></l><r>éan<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>spring<s n="n"/></l><r>earrach<s n="n"/><s n="m"/></r></p></e>
@@ -793,6 +794,7 @@
     <e a="coregan"><p><l>lack<s n="n"/></l><r>easpa<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>bishop<s n="n"/></l><r>easpag<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>rise<s n="n"/></l><r>éirí<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>rise<s n="vblex"/></l><r>éirí<s n="vblex"/></r></p></e>
     <e><p><l>hearing<s n="n"/></l><r>éisteacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>listen<s n="vblex"/></l><r>éisteacht<s n="vblex"/></r></p></e>
     <e a="coregan"><p><l>listener<s n="n"/></l><r>éisteoir<s n="n"/><s n="m"/></r></p></e>
@@ -804,7 +806,8 @@
     <e a="coregan"><p><l>leaving<s n="n"/></l><r>fágáil<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>nothing<s n="n"/></l><r>faic<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>chess<s n="n"/></l><r>faichill<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>get<s n="n"/></l><r>fáil<s n="n"/><s n="f"/></r></p></e>
+    <e a="coregan"><p><l>get<s n="vblex"/></l><r>fáil<s n="vblex"/></r></p></e>
+    <e><p><l>get<s n="n"/></l><r>fáil<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>welcome<s n="n"/></l><r>fáilte<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>greeting<s n="n"/></l><r>fáiltiú<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>ring<s n="n"/></l><r>fáinne<s n="n"/><s n="m"/></r></p></e>
@@ -822,7 +825,8 @@
     <e a="coregan"><p><l>anger<s n="n"/></l><r>fearg<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>beard<s n="n"/></l><r>féasóg<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>party<s n="n"/></l><r>féasta<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>see<s n="n"/></l><r>feiceáil<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sight<s n="n"/></l><r>feiceáil<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>in<b/>sight<s n="adv"/></l><r>le<b/>feiceáil<s n="adv"/></r></p></e>
     <e a="coregan"><p><l>function<s n="n"/></l><r>feidhm<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>festival<s n="n"/></l><r>féile<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>suicide<s n="n"/></l><r>féinmharú<s n="n"/><s n="m"/></r></p></e>
@@ -831,12 +835,13 @@
     <e a="coregan"><p><l>farm<s n="n"/></l><r>feirm<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>farmer<s n="n"/></l><r>feirmeoir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>farming<s n="n"/></l><r>feirmeoireacht<s n="n"/><s n="f"/></r></p></e>
-    <e a="coregan"><p><l>wait<s n="n"/></l><r>feitheamh<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan" c="?"><p><l>wait<s n="n"/></l><r>feitheamh<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>fly<s n="n"/></l><r>feithid<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>meat<s n="n"/></l><r>feoil<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>deer<s n="n"/></l><r>fia<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>tooth<s n="n"/></l><r>fiacail<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>dentist<s n="n"/></l><r>fiaclóir<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dentistry<s n="n"/></l><r>fiaclóireacht<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>inquiry<s n="n"/></l><r>fiafraí<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>evidence<s n="n"/></l><r>fianaise<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>twenty<s n="n"/></l><r>fiche<s n="n"/><s n="m"/></r></p></e>
