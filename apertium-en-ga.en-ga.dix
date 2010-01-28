@@ -627,8 +627,9 @@
     <e a="coregan"><p><l>cross<s n="n"/></l><r>crios<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>crystal<s n="n"/></l><r>criostal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>shake<s n="n"/></l><r>crith<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>hang<s n="n"/></l><r>crochadh<s n="n"/><s n="m"/></r></p></e>
-    <e a="coregan"><p><l>hangman<s n="n"/></l><r>crochadóir<s n="n"/><s n="m"/></r></p></e> <!-- ? -->
+    <e a="coregan"><p><l>hang<s n="vblex"/></l><r>crochadh<s n="vblex"/></r></p></e>
+    <e><p><l>suspension<s n="n"/></l><r>crochadh<s n="n"/><s n="m"/></r></p></e>
+    <e a="coregan"><p><l>hanger<s n="n"/></l><r>crochadóir<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>crocodile<s n="n"/></l><r>crogall<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>heart<s n="n"/></l><r>croí<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>crossword<s n="n"/></l><r>crosfhocal<s n="n"/><s n="m"/></r></p></e>
