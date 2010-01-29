@@ -77,6 +77,7 @@
     <sdef n="sent"/>
     <sdef n="guio"/>
     <sdef n="num"/>
+    <sdef n="acr"/>
   </sdefs>
 
   <pardefs>
@@ -54743,6 +54744,9 @@
     <e lm="scil"><par n="initial-s"/><i>cil</i><par n="síl__vblex"/></e>
 
     <e lm="faraor"><par n="initial-f"/><i>araor</i><par n="faraor__ij"/></e>
+
+    <e lm="lch. num"><i>lch.<b/></i><re>[0-9]*</re><p><l/><r><s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
+    <e lm="uimh. num"><i>uimh.<b/></i><re>[0-9]*</re><p><l/><r><s n="n"/><s n="acr"/><s n="f"/><s n="sp"/></r></p></e>
   </section>
 
   <section id="abbreviations" type="postblank">
@@ -54754,12 +54758,30 @@
     <e lm="b'" r="LR"><p><l>b'</l><r>is<s n="vbcop"/><s n="aff"/><s n="pii"/></r></p></e>
   </section>
 
+  <section id="abbreviations" type="preblank">
+    <e lm="'s" r="LR"><p><l>'s</l><r>is<s n="vbcop"/><s n="aff"/><s n="pres"/></r></p></e>
+  </section>
   <section id="final" type="inconditional">
     <e>
       <par n="separa"/>
     </e>
     <e>
       <par n="numeros"/>
+    </e>
+    <e>
+      <par n="coma"/>
+    </e>
+    <e>
+      <par n="guionet"/>
+    </e>
+    <e>
+      <par n="cometa"/>
+    </e>
+    <e>
+      <par n="paresq"/>
+    </e>
+    <e>
+      <par n="pardret"/>
     </e>
   </section>
 </dictionary>
