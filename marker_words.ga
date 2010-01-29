@@ -40,7 +40,6 @@ na:D
 mo:O:Det_PRON
 m':O:Det_PRON
 do:O:Det_PRON
-d':O:Det_PRON
 a:O:Det_PRON
 ár:O:Det_PRON
 bhúr:O:Det_PRON
@@ -62,6 +61,9 @@ ins:P
 sna:P
 trína:P
 do:P
+d':P
+d':O:Det_PRON
+os comhair:P
 don:P
 de:P
 den:P
