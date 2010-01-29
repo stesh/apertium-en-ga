@@ -1631,6 +1631,8 @@
     <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
     <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
     <e><re>[’'‘]</re><p><l><s n="apos"/></l><r><s n="apos"/></r></p></e>
+    <e><p><l>p.<b/></l><r>lch.<b/></r></p><re>[0-9]*</re><p><l><s n="n"/><s n="acr"/></l><r><s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+    <e><p><l>no.<b/></l><r>uimh.<b/></r></p><re>[0-9]*</re><p><l><s n="n"/><s n="acr"/></l><r><s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
   </section>
 </dictionary>
