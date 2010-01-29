@@ -11,6 +11,7 @@
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
     <sdef n="cnjadv"/>
+    <sdef n="preadv"/>
     <sdef n="adv"/>
     <sdef n="pr"/>
     <sdef n="prn"/>
@@ -1063,6 +1064,14 @@
         <p>
           <l/>
           <r><s n="cnjadv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="chomh__preadv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="preadv"/></r>
         </p>
       </e>
     </pardef>
@@ -45940,6 +45949,7 @@
 
     <e lm="nuair"><i>nuair</i><par n="nuair__cnjadv"/></e>
 
+    <e lm="chomh"><i>chomh</i><par n="chomh__preadv"/></e>
 
     <!-- Prepositions -->
     <e lm="ag"><i/><par n="/ag__pr"/></e>
@@ -45970,6 +45980,7 @@
     <e lm="in aice le"><i>in<b/>aice<b/></i><par n="/le__pr"/></e>
     <e lm="isteach i"><i>isteach<b/></i><par n="/i__pr"/></e>
     <e lm="ag féachaint do"><i>ag<b/>féachaint<b/></i><par n="/do__pr"/></e>
+    <e lm="maidir le"><i>maidir<b/></i><par n="/le__pr"/></e>
 
     <!-- Adverbs -->
     <e lm="abhaile"><i>abhaile</i><par n="anseo__adv"/></e>
@@ -54747,6 +54758,8 @@
 
     <e lm="lch. num"><i>lch.<b/></i><re>[0-9]*</re><p><l/><r><s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
     <e lm="uimh. num"><i>uimh.<b/></i><re>[0-9]*</re><p><l/><r><s n="n"/><s n="acr"/><s n="f"/><s n="sp"/></r></p></e>
+    <e lm="lch. num"><i>lch<b/>.<b/></i><re>[0-9]*</re><p><l/><r><s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
+    <e lm="uimh. num"><i>uimh<b/>.<b/></i><re>[0-9]*</re><p><l/><r><s n="n"/><s n="acr"/><s n="f"/><s n="sp"/></r></p></e>
   </section>
 
   <section id="abbreviations" type="postblank">
