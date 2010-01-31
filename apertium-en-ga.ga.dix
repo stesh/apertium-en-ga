@@ -32931,6 +32931,20 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Ríge__np_f">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="le/ac__n_f">
       <e>
         <p>
@@ -46154,6 +46168,7 @@
     <e lm="athimirt"><par n="initial-a"/><i>thim</i><par n="im/irt__n_f"/></e>
     <e lm="lítear"><i>lít</i><par n="f/ear__n_m"/></e>
     <e lm="ardintleacht"><par n="initial-a"/><i>rdintleacht</i><par n="ócht__n_f"/></e>
+    <e lm="bunscolaíocht"><par n="initial-b"/><i>unscolaíocht</i><par n="ócht__n_f"/></e>
     <e lm="achomharc"><par n="initial-a"/><i>chomha</i><par n="to/rc__n_m"/></e>
     <e lm="codán"><par n="initial-c"/><i>odá</i><par n="to/n__n_m"/></e>
     <e lm="fondúireacht"><par n="initial-f"/><i>ondúireacht</i><par n="eang__n_f"/></e>
@@ -46191,6 +46206,8 @@
     <e lm="pianódóir"><par n="initial-p"/><i>ianódó</i><par n="almó/ir__n_m"/></e>
     <e lm="díriú"><par n="initial-d"/><i>íri</i><par n="ídi/ú__n_m"/></e>
     <e lm="gaimbín"><par n="initial-g"/><i>aimbín</i><par n="ápa__n_m"/></e>
+    <e lm="organaitín"><par n="initial-o"/><i>rganaitín</i><par n="ápa__n_m"/></e>
+    <e lm="piridín"><par n="initial-p"/><i>iridín</i><par n="ápa__n_m"/></e>
     <e lm="cuimse"><par n="initial-c"/><i>uims</i><par n="air/e__n_f"/></e>
     <e lm="bán"><par n="initial-b"/><i>á</i><par n="ró/n__n_m"/></e>
     <e lm="glao"><par n="initial-g"/><i>lao</i><par n="pá__n_m"/></e>
@@ -47600,6 +47617,7 @@
     <e lm="máthair"><par n="initial-m"/><i>á</i><par n="má/thair__n_f"/></e>
     <e lm="cigire"><par n="initial-c"/><i>igir</i><par n="rig/e__n_m"/></e>
     <e lm="cóiriú"><par n="initial-c"/><i>óiri</i><par n="ídi/ú__n_m"/></e>
+    <e lm="aerchóiriú"><par n="initial-a"/><i>erchóiri</i><par n="ídi/ú__n_m"/></e>
     <e lm="buachaill"><par n="initial-b"/><i>uacha</i><par n="buacha/ill__n_m"/></e>
     <e lm="peann"><par n="initial-p"/><i></i><par n="díg/eann__n_m"/></e>
     <e lm="náibhíocht"><i>náibhíocht</i><par n="ócht__n_f"/></e>
@@ -51968,7 +51986,7 @@
     <e lm="uimhir"><par n="initial-u"/><i>imh</i><par n="lit/ir__n_f"/></e>
     <e lm="tóir"><par n="initial-t"/><i>ó</i><par n="tó/ir__n_f"/></e>
     <e lm="stábla"><par n="initial-s"/><i>tábla</i><par n="ápa__n_m"/></e>
-    <e lm="Ríge"><i>Ríge</i><par n="lé__n_f"/></e>
+    <e lm="Ríge"><i>Ríge</i><par n="Ríge__np_f"/></e>
     <e lm="tréigean"><par n="initial-t"/><i>réig</i><par n="gr/ean__n_m"/></e>
     <e lm="séimhiú"><par n="initial-s"/><i>éimhi</i><par n="ídi/ú__n_m"/></e>
     <e lm="staidéar"><par n="initial-s"/><i>taidé</i><par n="áimé/ar__n_m"/></e>
@@ -52499,6 +52517,7 @@
     <e lm="náireach"><i>náir</i><par n="eit/each__adj"/></e>
     <e lm="dara"><par n="initial-d"/><i>ara</i><par n="dó__adj"/></e>
     <e lm="caithréimeach"><par n="initial-c"/><i>aithréim</i><par n="eit/each__adj"/></e>
+    <e lm="hipideirmeach"><i>hipideirm</i><par n="eit/each__adj"/></e>
     <e lm="armúrtha"><par n="initial-a"/><i>rmúrtha</i><par n="tí__adj"/></e>
     <e lm="aineoil"><par n="initial-a"/><i>ineoil</i><par n="dó__adj"/></e>
     <e lm="deichiú"><par n="initial-d"/><i>eichiú</i><par n="dó__adj"/></e>

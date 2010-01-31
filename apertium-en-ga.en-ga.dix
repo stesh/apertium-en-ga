@@ -429,6 +429,12 @@
     <e><p><l>pass<s n="n"/></l><r>bearnas<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>parcel<s n="n"/></l><r>beart<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>living<s n="n"/></l><r>beo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hypodermic<s n="adj"/></l><r>hipideirmeach<s n="adj"/></r></p></e>
+    <e><p><l>air<b/>conditioning<s n="n"/></l><r>aerchóiriú<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>primary<b/>education<s n="n"/></l><r>bunscolaíocht<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>organotin<s n="n"/></l><r>organaitín<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pyridine<s n="n"/></l><r>piridín<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>shark<s n="n"/></l><r>siorc<s n="n"/><s n="m"/></r></p></e>
     <e a="coregan"><p><l>live<s n="adj"/></l><r>beo<s n="adj"/></r></p></e>
     <e a="coregan"><p><l>beer<s n="n"/></l><r>beoir<s n="n"/><s n="f"/></r></p></e>
     <e a="coregan"><p><l>food<s n="n"/></l><r>bia<s n="n"/><s n="m"/></r></p></e>
@@ -1419,6 +1425,7 @@
 
     <e><p><l>act<s n="n"/></l><r>acht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Ethiopia<s n="np"/><s n="top"/></l><r>Aetóip<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Riga<s n="np"/><s n="top"/></l><r>Ríge<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Afghanistan<s n="np"/><s n="top"/></l><r>Afganastáin<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>African<s n="n"/></l><r>Afracach<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Africa<s n="np"/><s n="top"/></l><r>Afraic<s n="np"/><s n="top"/><s n="f"/></r></p></e>
