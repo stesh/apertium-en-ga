@@ -2753,9 +2753,6 @@
     </pardef>
 
 
-
-
-
     <pardef n="lorg__vblex">
       <e>
         <p>
@@ -22142,12 +22139,6 @@
       </e>
       <e>
         <p>
-          <l>rtha</l>
-          <r>ir<s n="vblex"/><s n="pp"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
           <l>ireann</l>
           <r>ir<s n="vblex"/><s n="pres"/></r>
         </p>
@@ -22170,6 +22161,12 @@
           <r>ir<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>rtha</l>
+          <r>ir<s n="vblex"/><s n="pp"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="fill__vblex">
       <e>
@@ -22188,18 +22185,6 @@
         <p>
           <l>fimid</l>
           <r><s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>te</l>
-          <r><s n="vblex"/><s n="ger"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>eadh</l>
-          <r><s n="vblex"/><s n="ger"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
@@ -22272,6 +22257,34 @@
         <p>
           <l>imid</l>
           <r><s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+<!--
+    </pardef>
+    <pardef n="fill__vblex_ger">
+-->
+      <e>
+        <p>
+          <l>idh</l>
+          <r><s n="vblex"/><s n="ger"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eadh</l>
+          <r><s n="vblex"/><s n="ger"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>teacha</l>
+          <r><s n="vblex"/><s n="ger"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>teacha</l>
+          <r><s n="vblex"/><s n="ger"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
     </pardef>
