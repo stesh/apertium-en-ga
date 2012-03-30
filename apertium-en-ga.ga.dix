@@ -623,6 +623,25 @@
       <e r="LR"><p><l>eatarthusan</l><r>idir<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <paradef n="/trí__pr">
+      <e r="LR"><p><l>trí</l><r>trí<s n="pr"/></r></p></e>
+      <e r="RL"><p><l>trí</l><r>trí<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>tríom</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>tríomsa</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>tríot</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>tríotsa</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>tríd</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>trídsan</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>tríthi</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>tríthise</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>thrínn</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>thrínne</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>tríbh</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>tríbhse</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>tríothu</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>tríothusan</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </paradef>
+
     <pardef n="go__pr">
       <e><p><l></l><r><s n="pr"/></r></p></e>
     </pardef>
