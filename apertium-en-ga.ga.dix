@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚabcdefghijklmnopqrstuvwxyzáéíóú</alphabet>
   <sdefs>
@@ -10879,6 +10880,7 @@
     <e lm="inné"><i>inné</i><par n="anseo__adv"/></e>
     <e lm="anois"><i>anois</i><par n="anseo__adv"/></e>
     <e lm="arís"><i>arís</i><par n="anseo__adv"/></e>
+    <e lm="freisin"><i>freisin</i><par n="anseo__adv"/></e>
     <e lm="ansin"><i>ansin</i><par n="anseo__adv"/></e>
     <e lm="inniu"><i>inniu</i><par n="anseo__adv"/></e>
     <e lm="Dé Luain"><i>Dé<b/>Luain</i><par n="anseo__adv"/></e>
@@ -10949,11 +10951,13 @@
     <e lm="Céinia"><par n="initial-C"/><i>éinia</i><par n="Seirbia__np_f"/></e>
     <e lm="Saimbia"><par n="initial-S"/><i>aimbia</i><par n="Seirbia__np_f"/></e>
     <e lm="Seirbia"><par n="initial-S"/><i>eirbia</i><par n="Seirbia__np_f"/></e>
+    <e lm="Séamus"><par n="initial-S"/><i>éamus</i><par n="Gaillimh__np_f"/></e>
     <e lm="Laitvia"><i>Laitvia</i><par n="Seirbia__np_f"/></e>
     <e lm="Slóivéin"><par n="initial-S"/><i>lóivéin</i><par n="Gaillimh__np_f"/></e>
     <e lm="Ind-Sín"><i>Ind-Sín</i><par n="Gaillimh__np_f"/></e>
     <e lm="Gána"><par n="initial-G"/><i>ána</i><par n="Gána__np_m"/></e>
     <e lm="Glaschú"><par n="initial-G"/><i>laschú</i><par n="Gána__np_m"/></e>
+    <e lm="Máire"><par n="initial-M"/><i>áire</i><par n="Gaillimh__np_f"/></e>
     <!-- Nouns --><e lm="binse"><par n="initial-b"/><i>ins</i><par n="rig/e__n_m"/></e>
     <e lm="céalacan"><par n="initial-c"/><i>éalaca</i><par n="to/n__n_m"/></e>
     <e lm="págántacht"><par n="initial-p"/><i>ágántacht</i><par n="ócht__n_f"/></e>
