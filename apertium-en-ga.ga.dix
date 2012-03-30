@@ -623,7 +623,7 @@
       <e r="LR"><p><l>eatarthusan</l><r>idir<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <paradef n="/trí__pr">
+    <pardef n="/trí__pr">
       <e r="LR"><p><l>trí</l><r>trí<s n="pr"/></r></p></e>
       <e r="RL"><p><l>trí</l><r>trí<s n="pr"/></r></p></e>
       <e r="LR"><p><l>tríom</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -640,7 +640,7 @@
       <e r="LR"><p><l>tríbhse</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>tríothu</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>tríothusan</l><r>trí<s n="pr"/><j/>prpers<s n="prn"/><s n="obj"/><s n="emph"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-    </paradef>
+    </pardef>
 
     <pardef n="go__pr">
       <e><p><l></l><r><s n="pr"/></r></p></e>
