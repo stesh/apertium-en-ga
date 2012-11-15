@@ -4,8 +4,9 @@
 
 
 # All words in the test text
+
 all_words() {
-    lt-proc ga-en.automorf.bin < "$testtext" | sed 's/\$\W*\^/$\n^/g'
+    lt-proc en-ga.ga.automorf.bin < "$testtext" | sed 's/\$\W*\^/$\n^/g'
 }
 
 # All words recognized from the dictionary
