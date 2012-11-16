@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transfer>
+    <section-def-cats>
+        <def-cat n="top">
+            <cat-item tags="cat_tag.*"/>
+        </def-cat>
+    </section-def-cats>
+    <section-def-attrs>
+        <def-attr n="feat">
+            <attr-item tags="feat1"/>
+            <attr-item tags="feat2"/>
+        </def-attr>
+    </section-def-attrs>
+    <section-def-vars>
+        <def-var n="blank"/>
+    </section-def-vars>    
+    <section-rules>
+        <rule>
+            <pattern>
+                <pattern-item n="top"/>
+            </pattern>
+            <action>
+                <let><clip pos="1" side="tl" part="feat"/><lit-tag v="feat2"/></let>
+                <out>
+                    <lu><clip pos="1" side="tl" part="whole"/></lu>
+                </out>
+            </action>
+        </rule>
+    </section-rules>
+</transfer>
