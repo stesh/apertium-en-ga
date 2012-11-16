@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+import sys
+
+analyses = sys.stdin.read().split(' ')
+choices = [w[:-1].partition('/')[2].partition('/')[0] for w in analyses]
+
+print '^'+'$ ^'.join(choices)+'$'
