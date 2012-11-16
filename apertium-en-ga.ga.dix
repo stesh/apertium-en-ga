@@ -4140,6 +4140,7 @@
     <pardef n="deirf/iúr__n_f">
       <e><p><l>éar</l><r>iúr<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>iúr</l><r>iúr<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>iúir</l><r>iúr<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>iúracha</l><r>iúr<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
 
@@ -5041,6 +5042,7 @@
     <pardef n="pó/g__n_f">
       <e><p><l>ige</l><r>g<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>g</l><r>g<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ig</l><r>g<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>g</l><r>g<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ga</l><r>g<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
@@ -10460,6 +10462,10 @@
       <e><p><l>int</l><r>int<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
     </pardef>
 
+    <pardef n="clois/int__n_f">
+      <e><p><l>int</l><r>int<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+
     <pardef n="ba/rr__n_m">
       <e><p><l>irr</l><r>rr<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>rr</l><r>rr<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -11113,6 +11119,10 @@
     <e lm="fíochmhaire"><par n="initial-f"/><i>íochmhaire</i><par n="lé__n_f"/></e>
     <e lm="ogham"><par n="initial-o"/><i>gha</i><par n="Gú/m__n_m"/></e>
     <e lm="croinic"><par n="initial-c"/><i>roinic</i><par n="ítim__n_f"/></e>
+    <e lm="fuinneog"><par n="initial-f"/><i>uinneo</i><par n="pó/g__n_f"/></e>
+    <e lm="fuinneog"><par n="initial-f"/><i>uinneo</i><par n="pó/g__n_f"/></e>
+    <e lm="fuinneog"><par n="initial-f"/><i>uinneo</i><par n="pó/g__n_f"/></e>
+    <e lm="fuinneog"><par n="initial-f"/><i>uinneo</i><par n="pó/g__n_f"/></e>
     <e lm="ológ"><par n="initial-o"/><i>ló</i><par n="pó/g__n_f"/></e>
     <e lm="míotar"><par n="initial-m"/><i>íotar</i><par n="bá__n_m"/></e>
     <e lm="mírath"><par n="initial-m"/><i>írath</i><par n="dul__n_m"/></e>
@@ -11719,6 +11729,8 @@
     <e lm="claonadh"><par n="initial-c"/><i>laon</i><par n="pós/adh__n_m"/></e>
     <e lm="cairpéad"><par n="initial-c"/><i>airpé</i><par n="firé/ad__n_m"/></e>
     <e lm="cloisteáil"><par n="initial-c"/><i>loisteá</i><par n="fá/il__n_f"/></e>
+    <e lm="clois"><par n="initial-c"/><i>lois</i><par n="cluin__vblex"/></e>
+    <e lm="cloisint"><par n="initial-c"/><i>lois</i><par n="clois/int__n_f"/></e>
     <e lm="eascairt"><par n="initial-e"/><i>asca</i><par n="taga/irt__n_f"/></e>
     <e lm="mífhoighne"><par n="initial-m"/><i>ífhoighne</i><par n="lé__n_f"/></e>
     <e lm="bliain"><par n="initial-b"/><i>lia</i><par n="go/in__n_f"/></e>
@@ -13580,6 +13592,7 @@
     <e lm="Comhairle"><par n="initial-C"/><i>omhairl</i><par n="air/e__n_f"/></e>
     <e lm="aois"><par n="initial-a"/><i>ois</i><par n="rím__n_f"/></e>
     <e lm="aoir"><par n="initial-a"/><i>o</i><par n="ao/ir__n_f"/></e>
+    <e lm="cathaoir"><par n="initial-c"/><i>athaoir</i><par n="fóir__n_f"/></e>
     <e lm="ord"><par n="initial-o"/><i></i><par n="o/rd__n_m"/></e>
     <e lm="méith"><par n="initial-m"/><i>éith</i><par n="Tír__n_f"/></e>
     <e lm="fuaimbhac"><par n="initial-f"/><i>uaimbha</i><par n="có/c__n_m"/></e>
@@ -18631,7 +18644,6 @@
     <e lm="imtharraingteach"><par n="initial-i"/><i>mtharraingt</i><par n="eit/each__adj"/></e>
     <e lm="Laidineach"><i>Laidin</i><par n="eit/each__adj"/></e>
     <e lm="leor"><i>leo</i><par n="ú/r__adj"/></e>
-    <e lm="aramatach"><par n="initial-a"/><i>ramata</i><par n="bua/ch__adj"/></e>
     <e lm="naoú"><i>naoú</i><par n="dó__adj"/></e>
     <e lm="míchompordach"><par n="initial-m"/><i>íchomporda</i><par n="bua/ch__adj"/></e>
     <e lm="basctha"><par n="initial-b"/><i>asctha</i><par n="tí__adj"/></e>
